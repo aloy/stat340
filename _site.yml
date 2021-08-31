@@ -7,7 +7,7 @@ output_dir: "docs"
 navbar:
   left:
     - text: "Resources"
-      href: Resources.html
+      href: resources.html
     - text: "Assignments"
       href: assignments.html
     - text: "Slack"
