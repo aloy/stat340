@@ -1,19 +1,14 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
+    "path": "posts/week01/",
+    "title": "Week 01: Welcome to Bayesian statistics!",
+    "description": "This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.",
+    "author": [],
     "date": "2021-08-30",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nWednesday, 15 Sept\nAnnouncements\nWelcome!\nTopics/activities\nSlides\nWelcome\nWhat is specs grading?\nProbability review\nBefore next time\nReview probability topics as needed\nHere are all of the recordings from my Fall 2020 probability class to help you review.\nSome former students have also found Joe Blitzstein’s probability lectures helpful.\n\nRead sections 7.1-7.2\nFriday, 17 Sept\nAnnouncements\nHomework 1 is due by 8:30 a.m. on Monday, September 20.\nTopics/activities\nInference for a proportion with discrete priors\nBefore next time\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-08-30T11:18:03-05:00",
+    "last_modified": "2021-08-30T11:34:39-05:00",
     "input_file": {}
   }
 ]

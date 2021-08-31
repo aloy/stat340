@@ -1,0 +1,18 @@
+---
+title: "Assignments"
+description: |
+  I'll post all course assignments here (homework, writing, and the final project).
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Reminder: All assignments should be submitted via [Gradescope](https://www.gradescope.com/courses/303230).**
+
+## Homework
+
+
+
+

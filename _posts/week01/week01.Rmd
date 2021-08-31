@@ -1,0 +1,56 @@
+---
+title: "Week 01: Welcome to Bayesian statistics!"
+description: |
+  This week we'll review some key results from probability and start discussing
+  Bayesian inference for a proportion.
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Wednesday, 15 Sept
+
+### Announcements
+
+Welcome!
+
+### Topics/activities
+
+Slides
+
+- Welcome
+- What is specs grading?
+- Probability review
+
+### Before next time
+
+- Review probability topics as needed
+
+    + Here are all of the [recordings from my Fall 2020 probability class](https://carleton.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2088b73f-581c-40e9-818f-ac23012a9103) to help you review.
+
+    + Some former students have also found [Joe Blitzstein's probability lectures](https://projects.iq.harvard.edu/stat110/youtube) helpful.
+
+- Read sections 7.1-7.2
+
+## Friday, 17 Sept
+
+### Announcements
+
+Homework 1 is due by 8:30 a.m. on Monday, September 20.
+
+### Topics/activities
+
+- Inference for a proportion with discrete priors
+
+
+### Before next time
+
+- 
+
+

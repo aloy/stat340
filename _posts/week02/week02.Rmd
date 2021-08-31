@@ -1,0 +1,59 @@
+---
+title: "Week 02: Univariate inference"
+description: |
+  This week we'll discuss how to use continuous priors and make predictions 
+  for proportions. We'll also start inference for a mean.
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Monday, 20 Sept
+
+### Announcements
+
+
+
+### Topics/activities
+
+Using continuous priors
+
+### Before next time
+
+## Wednesday, 22 Sept
+
+### Announcements
+
+
+### Topics/activities
+
+Prediction
+
+### Before next time
+
+
+
+## Friday, 24 Sept
+
+### Announcements
+
+
+
+### Topics/activities
+
+Inference for the mean with discrete priors
+
+### Before next time
+
+- 
+
+
+
+
