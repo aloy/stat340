@@ -7,11 +7,13 @@ output_dir: "docs"
 navbar:
   left:
     - text: "Resources"
-      href: Resources.html
+      href: resources.html
     - text: "Assignments"
       href: assignments.html
     - text: "Slack"
+      href: https://stat340-fa21.slack.com
     - text: "Gradescope"
+      href: https://www.gradescope.com/courses/303230
     - text: "Moodle"
       href: https://moodle.carleton.edu/course/view.php?id=36990
 

@@ -1,0 +1,88 @@
+---
+title: "How to use Gradescope"
+description: |
+  This is a guide on how to use gradescope to submit assignments. 
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+This term, you will use gradescope to submit all of your homework assignments, writing assignments, the final project, and I'll even upload your exams. Gradescope facilitates easier online grading of assignments than a simple Moodle submission. You can use gradscope to:
+
+- Submit homework online for grading .
+- View feedback and scores.
+- Make a re-grade request within prescribed guidelines.
+
+## Submission process
+When you need to complete a gradescope assignment, here are a few easy steps you will take to prepare and upload your assignment, as well as to see your assignment status and grades. 
+
+1. Complete your assignment on paper or computer.
+
+2. Save your assignment to a pdf file format.
+
+3. Upload your assignment pdf file to gradescope.
+
+
+## How do I access gradescope?
+You can click on a link to gradescope at the top of our course page. Alternatively, there is a link to gradescope on the homework page.
+
+
+## How do I get help with gradescope?
+If you need help with your assignment instructions and/or logistics, please contact me. There are also a great [wiki on using gradescope](https://help.gradescope.com/category/cyk4ij2dwi-student-workflow).
+
+
+## Do I need to complete my assignment on a computer to submit it to gradescope?
+No. You can complete your assignment on paper; then you will need to scan it so you have a PDF file to submit to gradescope. 
+
+Alternatively, if you completed your assignment on a computer (e.g. using MSWord, Google docs, or LaTeX), save that file as a PDF and submit to gradescope. If you do typeset your assignment, please use proper mathematical notation.
+
+
+## I have complete my assignment on paper; how do I prepare it for submission to gradescope?
+You can scan the pages of your assignment into a single PDF by using [one of the scanners in the Libe](https://gouldguides.carleton.edu/c.php?g=147202&p=964754#s-lg-box-2893291).
+
+–OR–
+
+You can use a free app (available for iOS and Android devices) to take pictures that are translated into a PDF ([see this guide](https://help.gradescope.com/article/0chl25eed3-student-scan-mobile-device)).
+
+
+## I have complete my assignment on the computer; how do I prepare it for submission to gradescope?
+Print to PDF or scan to PDF:
+
+Given that you completed your homework on a computer, the best way to get a clear and legible scanned version is to “print to pdf” (or knit to PDF) and save the output as a PDF file. If that is not possible with the file format you used to complete the homework, the next best option is to print your assignment and then scan the page(s) to PDF.
+
+
+
+## I have the file(s) with my scanned assignment; now how do I submit to gradescope?
+See [this video](https://www.gradescope.com/get_started#student-submission) or [this webpage](https://help.gradescope.com/article/ccbpppziu9) for instructions.
+
+
+
+## How much time should I allow for submitting my assignment to gradescope?
+The first few times, allow an extra 10 minutes to successfully submit an assignment to gradescope. Remember that you need to create a pdf file of your assignment (i.e., scanned version) to submit.
+
+
+
+## How do I check my grade on an assignment?
+I will import your marks into Moodle's gradebook, so you will be able to see your makrs under the grades tab. See the next item How do I review my feedback... for information on how to get detailed score information and feedback on your work.
+
+
+
+## How do I review my feedback on an assignment graded with gradescope?
+Once your assignment is graded and you log into gradescope via Moodle, you will see all grading rubrics, and rubric items applied to your submission will be highlighted. Click on a question name within the assignment to view the rubric items for that question and any comments. Viewing the rubric is a great way to get feedback about your work. See [this page for more details](https://help.gradescope.com/article/axm932lptr).
+
+
+
+## How do I submit a regrade request?
+See [this webpage](https://www.gradescope.com/help#help-center-item-student-regrades) for details. 
+
+
+
+## Credit {.appendix}
+
+This guide was adapted from [CMU's guide on gradescope](https://www.cmu.edu/teaching/gradescope/).

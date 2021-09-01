@@ -14,11 +14,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Essential course information
 
-- Syllabus
+- [Syllabus](https://www.dropbox.com/s/5ks1zl2s8cdre8s/syllabus_stat340_f2021.pdf?dl=0)
 
-- Problem topic sheet
+- [Problem topic sheet](https://www.dropbox.com/s/7rq012lfb22ro98/problem_topics_stat340_fall2021.pdf?dl=0)
 
-- Specifications for successful work
+- [Specifications for successful work](https://www.dropbox.com/s/pypdd8s58c85kfq/specs_stat340_fall2021.pdf?dl=0)
+
+- Post questions/discuss content on [Slack](https://stat340-fa21.slack.com)
+
+- Submit your assignments via [Gradescope](https://www.gradescope.com/courses/303230)
+
+- Check your progress in [Moodle's gradebook](https://moodle.carleton.edu/course/view.php?id=36990)
+
 
 
 ## Textbook
@@ -55,4 +62,11 @@ We will use numerous R packages throughout this course. They are all installed o
 install.packages(c("ProbBayes", "loo", "coda", "runjags", "MCMCpack",
                    "tidybayes", "VGAM"), dependencies = TRUE)
 ```
+
+
+## Gradescope help
+
+- [How to use Gradescope](gradescope.html)
+
+- [Gradescope student center](https://help.gradescope.com/category/cyk4ij2dwi-student-workflow)
 

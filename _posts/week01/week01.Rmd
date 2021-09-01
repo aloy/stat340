@@ -6,6 +6,10 @@ description: |
 output:
   distill::distill_article:
     self_contained: false
+<<<<<<< HEAD
+=======
+draft: true
+>>>>>>> 7d87093bdc1510711e30c590bd06ff330e97a8fa
 ---
 
 
