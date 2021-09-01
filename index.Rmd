@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "Course materials and schedule"
 site: distill::distill_website
 listing: posts
 ---

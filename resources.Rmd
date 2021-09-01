@@ -1,0 +1,58 @@
+---
+title: "Course resources"
+description: |
+  Here are key course documents and resources, ranging from the syllabus to software help.
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Essential course information
+
+- Syllabus
+
+- Problem topic sheet
+
+- Specifications for successful work
+
+
+## Textbook
+
+The required textbook is *Probability and Bayesian Modeling* by Jim Albert and Monika (Jingchen) Hu (2020, CRC).
+
+A free ebook version is available here: https://bayesball.github.io/BOOK/
+
+
+## Software installation
+
+### R/RStudio
+
+We will use R/RStudio as our computational engine. Please install the current version of R and RStudio at the beginning of the term if you plan to use a local version.
+
+Download R: https://cran.r-project.org/
+
+Download RStudio desktop: https://www.rstudio.com/products/rstudio/download/#download
+
+The maize server (https://maize.mathcs.carleton.edu) is also available for your use, but can only be accessed on campus of via a VPN.
+
+### JAGS
+
+We will use JAGS (Just Another Gibbs Sampler) "automate" some of the posterior sampling via MCMC this term. Please install JAGS using prior to installing the R packages listed below.
+
+Link to the latest version: https://sourceforge.net/projects/mcmc-jags/files/latest/download
+
+
+### R packages
+
+We will use numerous R packages throughout this course. They are all installed on the maize R Studio server. If you are working on a local install, then please run the code chunk below to install all of the packages. I recommend doing this at the beginning of the course to avoid last minute installation issues preventing you from completing assignments.
+
+```{r eval=FALSE}
+install.packages(c("ProbBayes", "loo", "coda", "runjags", "MCMCpack",
+                   "tidybayes", "VGAM"), dependencies = TRUE)
+```
+
