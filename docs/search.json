@@ -6,7 +6,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-30T11:39:35-05:00"
+      "last_modified": "2021-09-01T09:35:09-05:00"
     },
     {
       "path": "assignments.html",
@@ -20,14 +20,14 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-08-30T11:39:36-05:00"
+      "last_modified": "2021-09-01T09:35:10-05:00"
     },
     {
       "path": "index.html",
       "title": "Course materials and schedule",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-30T11:40:10-05:00"
+      "last_modified": "2021-09-01T09:35:10-05:00"
     },
     {
       "path": "resources.html",
@@ -35,7 +35,7 @@
       "description": "Here are key course documents and resources, ranging from the syllabus to software help.\n",
       "author": [],
       "contents": "\n\nContents\nEssential course information\nTextbook\nSoftware installation\n\nEssential course information\nSyllabus\nProblem topic sheet\nSpecifications for successful work\nTextbook\nThe required textbook is Probability and Bayesian Modeling by Jim Albert and Monika (Jingchen) Hu (2020, CRC).\nA free ebook version is available here: https://bayesball.github.io/BOOK/\nSoftware installation\nR/RStudio\nWe will use R/RStudio as our computational engine. Please install the current version of R and RStudio at the beginning of the term if you plan to use a local version.\nDownload R: https://cran.r-project.org/\nDownload RStudio desktop: https://www.rstudio.com/products/rstudio/download/#download\nThe maize server (https://maize.mathcs.carleton.edu) is also available for your use, but can only be accessed on campus of via a VPN.\nJAGS\nWe will use JAGS (Just Another Gibbs Sampler) “automate” some of the posterior sampling via MCMC this term. Please install JAGS using prior to installing the R packages listed below.\nLink to the latest version: https://sourceforge.net/projects/mcmc-jags/files/latest/download\nR packages\nWe will use numerous R packages throughout this course. They are all installed on the maize R Studio server. If you are working on a local install, then please run the code chunk below to install all of the packages. I recommend doing this at the beginning of the course to avoid last minute installation issues preventing you from completing assignments.\n\n\ninstall.packages(c(\"ProbBayes\", \"loo\", \"coda\", \"runjags\", \"MCMCpack\",\n                   \"tidybayes\", \"VGAM\"), dependencies = TRUE)\n\n\n\n\n\n\n",
-      "last_modified": "2021-08-30T11:51:19-05:00"
+      "last_modified": "2021-09-01T09:35:11-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
