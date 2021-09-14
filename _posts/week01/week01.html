@@ -23,6 +23,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
@@ -91,8 +92,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2021-08-30"/>
-  <meta property="article:created" itemprop="dateCreated" content="2021-08-30"/>
+  <meta property="article:published" itemprop="datePublished" content="2021-09-14"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-09-14"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Week 01: Welcome to Bayesian statistics!"/>
@@ -109,12 +110,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 01: Welcome to Bayesian statistics!"]},{"type":"character","attributes":{},"value":["This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["08-30-2021"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 01: Welcome to Bayesian statistics!"]},{"type":"character","attributes":{},"value":["This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["09-14-2021"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["week01_files/anchor-4.2.2/anchor.min.js","week01_files/bowser-1.9.3/bowser.min.js","week01_files/distill-2.2.21/template.v2.js","week01_files/header-attrs-2.10/header-attrs.js","week01_files/jquery-1.11.3/jquery.min.js","week01_files/popper-2.6.0/popper.min.js","week01_files/tippy-6.2.7/tippy-bundle.umd.min.js","week01_files/tippy-6.2.7/tippy-light-border.css","week01_files/tippy-6.2.7/tippy.css","week01_files/tippy-6.2.7/tippy.umd.min.js","week01_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["week01_files/anchor-4.2.2/anchor.min.js","week01_files/bowser-1.9.3/bowser.min.js","week01_files/distill-2.2.21/template.v2.js","week01_files/header-attrs-2.10/header-attrs.js","week01_files/header-attrs-2.11/header-attrs.js","week01_files/jquery-1.11.3/jquery.min.js","week01_files/jquery-3.6.0/jquery-3.6.0.js","week01_files/jquery-3.6.0/jquery-3.6.0.min.js","week01_files/jquery-3.6.0/jquery-3.6.0.min.map","week01_files/popper-2.6.0/popper.min.js","week01_files/tippy-6.2.7/tippy-bundle.umd.min.js","week01_files/tippy-6.2.7/tippy-light-border.css","week01_files/tippy-6.2.7/tippy.css","week01_files/tippy-6.2.7/tippy.umd.min.js","week01_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1432,8 +1433,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="week01_files/header-attrs-2.10/header-attrs.js"></script>
-  <script src="week01_files/jquery-1.11.3/jquery.min.js"></script>
+  <script src="week01_files/header-attrs-2.11/header-attrs.js"></script>
+  <script src="week01_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <script src="week01_files/popper-2.6.0/popper.min.js"></script>
   <link href="week01_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="week01_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -1453,7 +1454,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 01: Welcome to Bayesian statistics!","description":"This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.","authors":[],"publishedDate":"2021-08-30T00:00:00.000+00:00"}
+{"title":"Week 01: Welcome to Bayesian statistics!","description":"This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.","authors":[],"publishedDate":"2021-09-14T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1474,8 +1475,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h2 id="wednesday-15-sept">Wednesday, 15 Sept</h2>
 <h3 id="announcements">Announcements</h3>
 <p>Welcome!</p>
+<p>If you want to have copies of the slides, then please print and bring them to class.</p>
 <h3 id="topicsactivities">Topics/activities</h3>
-<p>Slides</p>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/01-probability-review.pdf">Slides</a></p>
 <ul>
 <li>Welcome</li>
 <li>What is specs grading?</li>
@@ -1483,23 +1485,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 <h3 id="before-next-time">Before next time</h3>
 <ul>
+<li><p>Work on <a href="https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0">probability review problems</a> (not due), review key topics as needed</p></li>
 <li><p>Review probability topics as needed</p>
 <ul>
 <li><p>Here are all of the <a href="https://carleton.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2088b73f-581c-40e9-818f-ac23012a9103">recordings from my Fall 2020 probability class</a> to help you review.</p></li>
 <li><p>Some former students have also found <a href="https://projects.iq.harvard.edu/stat110/youtube">Joe Blitzstein’s probability lectures</a> helpful.</p></li>
 </ul></li>
 <li><p>Read sections 7.1-7.2</p></li>
+<li><p>Please install the software/R packages outlined on the <a href="resources.html">Course resources page</a>. Let me know if you hit any snags.</p></li>
 </ul>
 <h2 id="friday-17-sept">Friday, 17 Sept</h2>
 <h3 id="announcements-1">Announcements</h3>
 <p>Homework 1 is due by 8:30 a.m. on Monday, September 20.</p>
 <h3 id="topicsactivities-1">Topics/activities</h3>
+<p>Slides</p>
 <ul>
 <li>Inference for a proportion with discrete priors</li>
 </ul>
 <h3 id="before-next-time-1">Before next time</h3>
 <ul>
-<li></li>
+<li>Read sections 7.3-7.5.2</li>
 </ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

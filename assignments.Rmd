@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Homework
 
-
+- [Probability review](https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0) (not due)
 
 
 

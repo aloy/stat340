@@ -20,6 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Specifications for successful work](https://www.dropbox.com/s/pypdd8s58c85kfq/specs_stat340_fall2021.pdf?dl=0)
 
+- [Token spending form](https://docs.google.com/forms/d/e/1FAIpQLScCSNn6w9EXqJhiC21rTxxuCbETh67Bw6IHJNhIiwogZFSehQ/viewform?usp=sf_link)
+
+- [Mistake report](https://docs.google.com/forms/d/e/1FAIpQLSePMLRb2a8xA7dd1FnUeMX0M8zbA-DqvlXF10H9vBQFE9sskg/viewform?usp=sf_link)
+
+- [Grade tracking checklist](https://docs.google.com/document/d/1DmANpyuV57ZKAgJPllvwd59EiYxaAoZmTRFHywaR--E/edit?usp=sharing)
+
 - Post questions/discuss content on [Slack](https://stat340-fa21.slack.com)
 
 - Submit your assignments via [Gradescope](https://www.gradescope.com/courses/303230)

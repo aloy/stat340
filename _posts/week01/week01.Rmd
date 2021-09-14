@@ -6,10 +6,6 @@ description: |
 output:
   distill::distill_article:
     self_contained: false
-<<<<<<< HEAD
-=======
-draft: true
->>>>>>> 7d87093bdc1510711e30c590bd06ff330e97a8fa
 ---
 
 
@@ -23,15 +19,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Welcome!
 
+If you want to have copies of the slides, then please print and bring them to class.
+
 ### Topics/activities
 
-Slides
+[Slides](https://aloy.github.io/stat340-notes-fa21/01-probability-review.pdf)
 
 - Welcome
 - What is specs grading?
 - Probability review
 
 ### Before next time
+
+- Work on [probability review problems](https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0) (not due), review key topics as needed
 
 - Review probability topics as needed
 
@@ -41,6 +41,8 @@ Slides
 
 - Read sections 7.1-7.2
 
+- Please install the software/R packages outlined on the [Course resources page](resources.html). Let me know if you hit any snags.
+
 ## Friday, 17 Sept
 
 ### Announcements
@@ -49,11 +51,14 @@ Homework 1 is due by 8:30 a.m. on Monday, September 20.
 
 ### Topics/activities
 
+Slides
+
 - Inference for a proportion with discrete priors
+
 
 
 ### Before next time
 
-- 
+- Read sections 7.3-7.5.2
 
 
