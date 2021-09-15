@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Essential course information
 
-- [Syllabus](https://www.dropbox.com/s/5ks1zl2s8cdre8s/syllabus_stat340_f2021.pdf?dl=0)
+- [Syllabus](https://www.dropbox.com/s/p9uuhz2d75tu0ym/syllabus_stat340_f2021.pdf?dl=0)
 
 - [Schedule an appointment](https://calendly.com/aloy-meetings/15min)
 
