@@ -44,7 +44,7 @@ If you want to have copies of the slides, then please print and bring them to cl
 
 - Read sections 7.1-7.2
 
-- Please install the software/R packages outlined on the [Course resources page](resources.html). Let me know if you hit any snags.
+- Please install the software/R packages outlined on the [Course resources page](https://aloy.github.io/stat340/resources.html). Let me know if you hit any snags.
 
 ## Friday, 17 Sept
 
