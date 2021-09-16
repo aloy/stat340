@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Homework
 
+- [Homework 1](https://www.dropbox.com/s/23whuwbniibehhw/hw01.pdf?dl=0) - due on Gradescope by Friday, Sept. 24 at 9:40 am.
+
 - [Probability review](https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0) (not due)
 
 
