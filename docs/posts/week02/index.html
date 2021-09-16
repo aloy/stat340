@@ -86,9 +86,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-<title>Stat 340, Fall 2021: Week 01: Welcome to Bayesian statistics!</title>
+<title>Stat 340, Fall 2021: Week 02: Univariate inference</title>
 
-<meta property="description" itemprop="description" content="This week we&#39;ll review some key results from probability and start discussing&#10;Bayesian inference for a proportion."/>
+<meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
 
 
 <!--  https://schema.org/Article -->
@@ -96,27 +96,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <meta property="article:created" itemprop="dateCreated" content="2021-09-16"/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-<meta property="og:title" content="Stat 340, Fall 2021: Week 01: Welcome to Bayesian statistics!"/>
+<meta property="og:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="This week we&#39;ll review some key results from probability and start discussing&#10;Bayesian inference for a proportion."/>
+<meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:site_name" content="Stat 340, Fall 2021"/>
 
 <!--  https://dev.twitter.com/cards/types/summary -->
 <meta property="twitter:card" content="summary"/>
-<meta property="twitter:title" content="Stat 340, Fall 2021: Week 01: Welcome to Bayesian statistics!"/>
-<meta property="twitter:description" content="This week we&#39;ll review some key results from probability and start discussing&#10;Bayesian inference for a proportion."/>
+<meta property="twitter:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
+<meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
 
 <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 01: Welcome to Bayesian statistics!"]},{"type":"character","attributes":{},"value":["This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion."]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-16-2021"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also start inference for a mean."]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-16-2021"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["week01_files/anchor-4.2.2/anchor.min.js","week01_files/bowser-1.9.3/bowser.min.js","week01_files/distill-2.2.21/template.v2.js","week01_files/header-attrs-2.10/header-attrs.js","week01_files/header-attrs-2.11/header-attrs.js","week01_files/jquery-1.11.3/jquery.min.js","week01_files/jquery-3.6.0/jquery-3.6.0.js","week01_files/jquery-3.6.0/jquery-3.6.0.min.js","week01_files/jquery-3.6.0/jquery-3.6.0.min.map","week01_files/popper-2.6.0/popper.min.js","week01_files/tippy-6.2.7/tippy-bundle.umd.min.js","week01_files/tippy-6.2.7/tippy-light-border.css","week01_files/tippy-6.2.7/tippy.css","week01_files/tippy-6.2.7/tippy.umd.min.js","week01_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["week02_files/anchor-4.2.2/anchor.min.js","week02_files/bowser-1.9.3/bowser.min.js","week02_files/distill-2.2.21/template.v2.js","week02_files/header-attrs-2.10/header-attrs.js","week02_files/header-attrs-2.11/header-attrs.js","week02_files/jquery-1.11.3/jquery.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.map","week02_files/popper-2.6.0/popper.min.js","week02_files/tippy-6.2.7/tippy-bundle.umd.min.js","week02_files/tippy-6.2.7/tippy-light-border.css","week02_files/tippy-6.2.7/tippy.css","week02_files/tippy-6.2.7/tippy.umd.min.js","week02_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2061,7 +2061,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 01: Welcome to Bayesian statistics!","description":"This week we'll review some key results from probability and start discussing\nBayesian inference for a proportion.","authors":[],"publishedDate":"2021-09-16T00:00:00.000+00:00"}
+{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also start inference for a mean.","authors":[],"publishedDate":"2021-09-16T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2087,50 +2087,46 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Week 01: Welcome to Bayesian statistics!</h1>
+<h1>Week 02: Univariate inference</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week we’ll review some key results from probability and start discussing Bayesian inference for a proportion.</p></p>
+<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll also start inference for a mean.</p></p>
 </div>
 
 
 <div class="d-article">
-<h2 id="wednesday-15-sept">Wednesday, 15 Sept</h2>
-<h3 id="announcements">Announcements</h3>
-<p>Welcome!</p>
-<p>If you want to have copies of the slides, then please print and bring them to class.</p>
+<h2 id="monday-20-sept">Monday, 20 Sept</h2>
 <h3 id="topicsactivities">Topics/activities</h3>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/01-probability-review.pdf">Slides</a></p>
 <ul>
-<li>Welcome</li>
-<li>What is specs grading?</li>
-<li>Probability review</li>
+<li>Inference with continuous priors</li>
 </ul>
 <h3 id="before-next-time">Before next time</h3>
-<ul>
-<li><p>Please <a href="https://docs.google.com/document/d/1-RjAbLxBAxEuy0R4HrMSHMwoNs0XilKwwT5cGBGswvM/edit?usp=sharing">sign up for two collaborative note slots</a></p></li>
-<li><p>Work on <a href="https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0">probability review problems</a> (not due), review key topics as needed.</p></li>
-<li><p>Once you have given the problems an honest effort, you can look at the <a href="https://www.dropbox.com/s/twtchey7aujhrvx/00-Probability-review.pdf?dl=0">solutions</a>.</p></li>
-<li><p>Review probability topics as needed</p>
-<ul>
-<li><p>Here are all of the <a href="https://carleton.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2088b73f-581c-40e9-818f-ac23012a9103">recordings from my Fall 2020 probability class</a> to help you review.</p></li>
-<li><p>Some former students have also found <a href="https://projects.iq.harvard.edu/stat110/youtube">Joe Blitzstein’s probability lectures</a> helpful.</p></li>
-</ul></li>
-<li><p>Read sections 7.1-7.2</p></li>
-<li><p>Please install the software/R packages outlined on the <a href="https://aloy.github.io/stat340/resources.html">Course resources page</a>. Let me know if you hit any snags.</p></li>
-</ul>
-<h2 id="friday-17-sept">Friday, 17 Sept</h2>
-<h3 id="announcements-1">Announcements</h3>
-<p>Homework 1 is due by 8:30 a.m. on Monday, September 20.</p>
+<ol type="1">
+<li><p>Review section 7.3.2, read section 7.6</p></li>
+<li><p>Work on homework 1</p></li>
+</ol>
+<h2 id="wednesday-22-sept">Wednesday, 22 Sept</h2>
 <h3 id="topicsactivities-1">Topics/activities</h3>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/02-prop-discrete-prior.pdf">Slides</a></p>
 <ul>
-<li>Inference for a proportion with discrete priors</li>
+<li>Prior elicitation</li>
 </ul>
 <h3 id="before-next-time-1">Before next time</h3>
 <ol type="1">
-<li><p>Read sections 7.3-7.5</p></li>
-<li><p>Start homework 1</p></li>
+<li><p>Read sections 8.1-8.3</p></li>
+<li><p>Finish homework 1 and upload to Gradescop before Friday’s class</p></li>
+</ol>
+<h2 id="friday-24-sept">Friday, 24 Sept</h2>
+<h3 id="announcements">Announcements</h3>
+<p>Homework 1 is due by 9:40 am</p>
+<h3 id="topicsactivities-2">Topics/activities</h3>
+<ul>
+<li><p>Wrap up inference for a proportion</p></li>
+<li><p>Start inference for the mean with discrete priors</p></li>
+</ul>
+<h3 id="before-next-time-2">Before next time</h3>
+<ol type="1">
+<li><p>Read sections 8.4-8.7</p></li>
+<li><p>Start homework 2</p></li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

@@ -6,7 +6,7 @@ description: |
 output:
   distill::distill_article:
     self_contained: false
-draft: true
+draft: false
 ---
 
 
@@ -17,42 +17,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Monday, 20 Sept
 
-### Announcements
-
 
 
 ### Topics/activities
 
-Using continuous priors
+- Inference with continuous priors
 
 ### Before next time
+
+1. Review section 7.3.2, read section 7.6
+
+1. Work on homework 1
+
+
 
 ## Wednesday, 22 Sept
 
-### Announcements
 
 
 ### Topics/activities
 
-Prediction
+- Prior elicitation
 
 ### Before next time
 
+1. Read sections 8.1-8.3
 
+2. Finish homework 1 and upload to Gradescop before Friday's class
 
 ## Friday, 24 Sept
 
 ### Announcements
 
-
+Homework 1 is due by 9:40 am
 
 ### Topics/activities
 
-Inference for the mean with discrete priors
+- Wrap up inference for a proportion
+
+- Start inference for the mean with discrete priors
 
 ### Before next time
 
-- 
+1. Read sections 8.4-8.7
+
+2. Start homework 2
 
 
 

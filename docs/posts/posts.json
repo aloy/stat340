@@ -6,9 +6,21 @@
     "author": [],
     "date": "2021-09-16",
     "categories": [],
-    "contents": "\nWednesday, 15 Sept\nAnnouncements\nWelcome!\nIf you want to have copies of the slides, then please print and bring them to class.\nTopics/activities\nSlides\nWelcome\nWhat is specs grading?\nProbability review\nBefore next time\nPlease sign up for two collaborative note slots\nWork on probability review problems (not due), review key topics as needed.\nOnce you have given the problems an honest effort, you can look at the solutions.\nReview probability topics as needed\nHere are all of the recordings from my Fall 2020 probability class to help you review.\nSome former students have also found Joe Blitzstein’s probability lectures helpful.\n\nRead sections 7.1-7.2\nPlease install the software/R packages outlined on the Course resources page. Let me know if you hit any snags.\nFriday, 17 Sept\nAnnouncements\nHomework 1 is due by 8:30 a.m. on Monday, September 20.\nTopics/activities\nSlides\nInference for a proportion with discrete priors\nBefore next time\nRead sections 7.3-7.5.2\nStart homework 1\n\n\n\n",
+    "contents": "\nWednesday, 15 Sept\nAnnouncements\nWelcome!\nIf you want to have copies of the slides, then please print and bring them to class.\nTopics/activities\nSlides\nWelcome\nWhat is specs grading?\nProbability review\nBefore next time\nPlease sign up for two collaborative note slots\nWork on probability review problems (not due), review key topics as needed.\nOnce you have given the problems an honest effort, you can look at the solutions.\nReview probability topics as needed\nHere are all of the recordings from my Fall 2020 probability class to help you review.\nSome former students have also found Joe Blitzstein’s probability lectures helpful.\n\nRead sections 7.1-7.2\nPlease install the software/R packages outlined on the Course resources page. Let me know if you hit any snags.\nFriday, 17 Sept\nAnnouncements\nHomework 1 is due by 8:30 a.m. on Monday, September 20.\nTopics/activities\nSlides\nInference for a proportion with discrete priors\nBefore next time\nRead sections 7.3-7.5\nStart homework 1\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-16T12:00:37-05:00",
+    "last_modified": "2021-09-16T13:25:23-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/week02/",
+    "title": "Week 02: Univariate inference",
+    "description": "This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also start inference for a mean.",
+    "author": [],
+    "date": "2021-09-16",
+    "categories": [],
+    "contents": "\nMonday, 20 Sept\nTopics/activities\nInference with continuous priors\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics/activities\nPrior elicitation\nBefore next time\nRead sections 8.1-8.3\nFinish homework 1 and upload to Gradescop before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nTopics/activities\nWrap up inference for a proportion\nStart inference for the mean with discrete priors\nBefore next time\nRead sections 8.4-8.7\nStart homework 2\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-16T13:28:31-05:00",
     "input_file": {}
   }
 ]
