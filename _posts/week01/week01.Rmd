@@ -52,13 +52,15 @@ If you want to have copies of the slides, then please print and bring them to cl
 
 ### Announcements
 
-Homework 1 is due by 8:30 a.m. on Monday, September 20.
+Homework 1 is due by 8:30 a.m. on Friday, September 24.
 
 ### Topics/activities
 
 [Slides](https://aloy.github.io/stat340-notes-fa21/02-prop-discrete-prior.pdf)
 
 [R code](https://aloy.github.io/stat340/code/02H-discrete-prior-r.html)
+
+[Collaborative notes](https://docs.google.com/document/d/1ocCxcEFMnzOPG9eP2jRhYWknkU-qF3ZPi9ui3Pebz5E/edit?usp=sharing)
 
 - Inference for a proportion with discrete priors
 
