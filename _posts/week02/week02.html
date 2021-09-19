@@ -88,34 +88,34 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Week 02: Univariate inference</title>
 
-  <meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
+  <meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2021-09-16"/>
-  <meta property="article:created" itemprop="dateCreated" content="2021-09-16"/>
+  <meta property="article:published" itemprop="datePublished" content="2021-09-19"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-09-19"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Week 02: Univariate inference"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
+  <meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
   <meta property="og:locale" content="en_US"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Week 02: Univariate inference"/>
-  <meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also start inference for a mean."/>
+  <meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also start inference for a mean.\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-16-2021"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.\n"]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-19-2021"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["week02_files/anchor-4.2.2/anchor.min.js","week02_files/bowser-1.9.3/bowser.min.js","week02_files/distill-2.2.21/template.v2.js","week02_files/header-attrs-2.10/header-attrs.js","week02_files/header-attrs-2.11/header-attrs.js","week02_files/jquery-1.11.3/jquery.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.map","week02_files/popper-2.6.0/popper.min.js","week02_files/tippy-6.2.7/tippy-bundle.umd.min.js","week02_files/tippy-6.2.7/tippy-light-border.css","week02_files/tippy-6.2.7/tippy.css","week02_files/tippy-6.2.7/tippy.umd.min.js","week02_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["densities.png","week02_files/anchor-4.2.2/anchor.min.js","week02_files/bowser-1.9.3/bowser.min.js","week02_files/distill-2.2.21/template.v2.js","week02_files/header-attrs-2.10/header-attrs.js","week02_files/header-attrs-2.11/header-attrs.js","week02_files/jquery-1.11.3/jquery.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.map","week02_files/popper-2.6.0/popper.min.js","week02_files/tippy-6.2.7/tippy-bundle.umd.min.js","week02_files/tippy-6.2.7/tippy-light-border.css","week02_files/tippy-6.2.7/tippy.css","week02_files/tippy-6.2.7/tippy.umd.min.js","week02_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1454,7 +1454,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also start inference for a mean.","authors":[],"publishedDate":"2021-09-16T00:00:00.000+00:00"}
+{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.","authors":[],"publishedDate":"2021-09-19T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1467,15 +1467,28 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>Week 02: Univariate inference</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll also start inference for a mean.</p></p>
+<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll discuss how to use prior information to select prior distribution, and we’ll start inference for a mean.</p></p>
 </div>
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#monday-20-sept">Monday, 20 Sept</a></li>
+<li><a href="#wednesday-22-sept">Wednesday, 22 Sept</a></li>
+<li><a href="#friday-24-sept">Friday, 24 Sept</a></li>
+</ul>
+</nav>
+</div>
 <h2 id="monday-20-sept">Monday, 20 Sept</h2>
 <h3 id="topicsactivities">Topics/activities</h3>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/03-prop-continuous-prior.pdf">Slides</a></p>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/03H-posterior-examples">Your turns</a> (you can copy and paste code from here)</p>
 <ul>
-<li>Inference with continuous priors</li>
+<li><p>Inference with continuous priors</p></li>
+<li><p>Predicting a new observation</p></li>
 </ul>
 <h3 id="before-next-time">Before next time</h3>
 <ol type="1">
