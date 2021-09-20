@@ -3,6 +3,7 @@ title: "Week 01: Welcome to Bayesian statistics!"
 description: |
   This week we'll review some key results from probability and start discussing
   Bayesian inference for a proportion.
+date: 9/15/2021
 output:
   distill::distill_article:
     self_contained: false
