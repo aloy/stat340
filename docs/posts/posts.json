@@ -4,12 +4,12 @@
     "title": "Week 02: Univariate inference",
     "description": "This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.",
     "author": [],
-    "date": "2021-09-19",
+    "date": "2021-09-21",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics/activities\nSlides\nYour turns (you can copy and paste code from here)\nInference with continuous priors\nPredicting a new observation\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics/activities\nPrior elicitation\nBefore next time\nRead sections 8.1-8.3\nFinish homework 1 and upload to Gradescop before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nTopics/activities\nWrap up inference for a proportion\nStart inference for the mean with discrete priors\nBefore next time\nRead sections 8.4-8.7\nStart homework 2\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics/activities\nSlides\nYour turns (you can copy and paste code from here)\nCollaborative notes\nInference with continuous priors\nPredicting a new observation\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics/activities\nPrior elicitation\nBefore next time\nRead sections 8.1-8.3\nFinish homework 1 and upload to Gradescop before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nTopics/activities\nWrap up inference for a proportion\nStart inference for the mean with discrete priors\nBefore next time\nRead sections 8.4-8.7\nStart homework 2\n\n\n\n",
     "preview": "posts/week02/densities.png",
-    "last_modified": "2021-09-19T14:04:46-05:00",
-    "input_file": {}
+    "last_modified": "2021-09-21T08:06:12-05:00",
+    "input_file": "week02.knit.md"
   },
   {
     "path": "posts/week01/",

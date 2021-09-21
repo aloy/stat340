@@ -28,6 +28,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Your turns](https://aloy.github.io/stat340-notes-fa21/03H-posterior-examples) (you can copy and paste code from here) 
 
+[Collaborative notes](https://docs.google.com/document/d/1hqi2f3YOLiJ7OVtRGa9TWrkF0sW-Mku4mA2kNc9tpSQ/edit?usp=sharing)
+
 - Inference with continuous priors
 
 - Predicting a new observation
