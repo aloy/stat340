@@ -20,9 +20,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Monday, 20 Sept
 
+### Topics
 
+- Inference with continuous priors
 
-### Topics/activities
+### Materials
 
 [Slides](https://aloy.github.io/stat340-notes-fa21/03-prop-continuous-prior.pdf)
 
@@ -30,9 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Collaborative notes](https://docs.google.com/document/d/1hqi2f3YOLiJ7OVtRGa9TWrkF0sW-Mku4mA2kNc9tpSQ/edit?usp=sharing)
 
-- Inference with continuous priors
 
-- Predicting a new observation
 
 
 
@@ -46,17 +46,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Wednesday, 22 Sept
 
+### Topics
 
-
-### Topics/activities
+- Predicting a new observation
 
 - Prior elicitation
+
+### Materials
+
+We'll wrap up Monday's slides, and then look at these [slides](https://aloy.github.io/stat340-notes-fa21/04-prior-elicitation.pdf) on prior elicitation
+
+[Your turns](https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.pdf)
+
 
 ### Before next time
 
 1. Read sections 8.1-8.3
 
-2. Finish homework 1 and upload to Gradescop before Friday's class
+2. Finish homework 1 and upload to Gradescope before Friday's class
 
 ## Friday, 24 Sept
 
@@ -64,7 +71,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Homework 1 is due by 9:40 am
 
-### Topics/activities
+### Topics
 
 - Wrap up inference for a proportion
 

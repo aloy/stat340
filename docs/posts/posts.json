@@ -6,10 +6,10 @@
     "author": [],
     "date": "2021-09-21",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics/activities\nSlides\nYour turns (you can copy and paste code from here)\nCollaborative notes\nInference with continuous priors\nPredicting a new observation\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics/activities\nPrior elicitation\nBefore next time\nRead sections 8.1-8.3\nFinish homework 1 and upload to Gradescop before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nTopics/activities\nWrap up inference for a proportion\nStart inference for the mean with discrete priors\nBefore next time\nRead sections 8.4-8.7\nStart homework 2\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics\nInference with continuous priors\nMaterials\nSlides\nYour turns (you can copy and paste code from here)\nCollaborative notes\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics\nPredicting a new observation\nPrior elicitation\nMaterials\nWe’ll wrap up Monday’s slides, and then look at these slides on prior elicitation\nYour turns\nBefore next time\nRead sections 8.1-8.3\nFinish homework 1 and upload to Gradescope before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nTopics\nWrap up inference for a proportion\nStart inference for the mean with discrete priors\nBefore next time\nRead sections 8.4-8.7\nStart homework 2\n\n\n\n",
     "preview": "posts/week02/densities.png",
-    "last_modified": "2021-09-21T08:06:12-05:00",
-    "input_file": "week02.knit.md"
+    "last_modified": "2021-09-21T16:17:17-05:00",
+    "input_file": {}
   },
   {
     "path": "posts/week01/",
