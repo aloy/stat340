@@ -58,6 +58,8 @@ We'll wrap up Monday's slides, and then look at these [slides](https://aloy.gith
 
 [Your turns](https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.pdf)
 
+[.Rmd file for your turns](https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.Rmd)
+
 
 ### Before next time
 
