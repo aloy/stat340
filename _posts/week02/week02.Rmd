@@ -63,9 +63,8 @@ We'll wrap up Monday's slides, and then look at these [slides](https://aloy.gith
 
 ### Before next time
 
-1. Read sections 8.1-8.3
 
-2. Finish homework 1 and upload to Gradescope before Friday's class
+1. Finish homework 1 and upload to Gradescope before Friday's class
 
 ## Friday, 24 Sept
 
@@ -81,7 +80,7 @@ Homework 1 is due by 9:40 am
 
 ### Before next time
 
-1. Read sections 8.4-8.7
+1. Read sections 8.1-8.3
 
 2. Start homework 2
 
