@@ -1,0 +1,81 @@
+---
+title: "Week 03: Means and counts"
+description: |
+  This week, we'll discuss Bayesian models for measurement and count data. 
+  Specifically, well explore using the normal distribution with known variance for
+  measurement data and the Poisson distribution for count data.
+date: 09-27-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Monday, 27 Sept
+
+### Topics
+
+Modeling measurement data
+
+### Materials
+
+Coming soon...
+
+### Before next time
+
+1. Read sections 8.6-8.7
+
+1. Work on homework 2
+
+
+
+## Wednesday, 28 Sept
+
+### Topics
+
+Modeling measurement data
+
+### Materials
+
+Coming soon...
+
+
+### Before next time
+
+1. Finish homework 2 and upload to Gradescope before Friday's class
+
+1. Read section 8.8
+
+## Friday, 24 Sept
+
+### Announcements
+
+Homework 2 is due by 9:40 am
+
+I will post Homework 3 today
+
+### Topics
+
+Modeling count data
+
+
+### Materials
+
+Coming soon...
+
+
+### Before next time
+
+1. Read section 9.1 for motivation
+
+2. Start homework 3
+
+
+
+

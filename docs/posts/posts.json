@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week03/",
+    "title": "Week 03: Means and counts",
+    "description": "This week, we'll discuss Bayesian models for measurement and count data. \nSpecifically, well explore using the normal distribution with known variance for\nmeasurement data and the Poisson distribution for count data.",
+    "author": [],
+    "date": "2021-09-27",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nComing soon…\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nModeling measurement data\nMaterials\nComing soon…\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 8.8\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nI will post Homework 3 today\nTopics\nModeling count data\nMaterials\nComing soon…\nBefore next time\nRead section 9.1 for motivation\nStart homework 3\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-24T12:14:58-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/week02/",
     "title": "Week 02: Univariate inference",
     "description": "This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.",
