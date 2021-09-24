@@ -92,8 +92,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2021-09-22"/>
-  <meta property="article:created" itemprop="dateCreated" content="2021-09-22"/>
+  <meta property="article:published" itemprop="datePublished" content="2021-09-23"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-09-23"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Week 02: Univariate inference"/>
@@ -110,7 +110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.\n"]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-22-2021"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.\n"]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-23-2021"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -1454,7 +1454,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.","authors":[],"publishedDate":"2021-09-22T00:00:00.000+00:00"}
+{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.","authors":[],"publishedDate":"2021-09-23T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1500,12 +1500,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h3 id="topics-1">Topics</h3>
 <ul>
 <li><p>Predicting a new observation</p></li>
-<li><p>Prior elicitation</p></li>
+<li><p>Choosing informative priors</p></li>
 </ul>
 <h3 id="materials-1">Materials</h3>
 <p>We’ll wrap up Monday’s slides, and then look at these <a href="https://aloy.github.io/stat340-notes-fa21/04-prior-elicitation.pdf">slides</a> on prior elicitation</p>
 <p><a href="https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.pdf">Your turns</a></p>
 <p><a href="https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.Rmd">.Rmd file for your turns</a></p>
+<p><a href="https://docs.google.com/document/d/1hxxIdmDbJxphO1YEpr255HuUDCTMvfTEGXIcq-or5t8/edit?usp=sharing">Collaborative notes</a></p>
 <h3 id="before-next-time-1">Before next time</h3>
 <ol type="1">
 <li>Finish homework 1 and upload to Gradescope before Friday’s class</li>
@@ -1513,14 +1514,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h2 id="friday-24-sept">Friday, 24 Sept</h2>
 <h3 id="announcements">Announcements</h3>
 <p>Homework 1 is due by 9:40 am</p>
+<p>I will post Homework 2 today</p>
 <h3 id="topics-2">Topics</h3>
 <ul>
-<li><p>Wrap up inference for a proportion</p></li>
-<li><p>Start inference for the mean with discrete priors</p></li>
+<li><p>Prior predictive checking</p></li>
+<li><p>Sensitivity analysis</p></li>
+<li><p>Weak/vauge priors</p></li>
+<li><p>Posterior predictive checks</p></li>
 </ul>
+<h3 id="materials-2">Materials</h3>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/05-weak-priors.pdf">Slides</a> (We’ll wrap up Wednesday’s slides first, and then look at these)</p>
 <h3 id="before-next-time-2">Before next time</h3>
 <ol type="1">
-<li><p>Read sections 8.1-8.3</p></li>
+<li><p>Read sections 8.1-8.5. We won’t discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read.</p></li>
 <li><p>Start homework 2</p></li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>

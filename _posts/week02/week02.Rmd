@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Predicting a new observation
 
-- Prior elicitation
+- Choosing informative priors
 
 ### Materials
 
@@ -59,6 +59,8 @@ We'll wrap up Monday's slides, and then look at these [slides](https://aloy.gith
 [Your turns](https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.pdf)
 
 [.Rmd file for your turns](https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.Rmd)
+
+[Collaborative notes](https://docs.google.com/document/d/1hxxIdmDbJxphO1YEpr255HuUDCTMvfTEGXIcq-or5t8/edit?usp=sharing)
 
 
 ### Before next time
@@ -72,15 +74,26 @@ We'll wrap up Monday's slides, and then look at these [slides](https://aloy.gith
 
 Homework 1 is due by 9:40 am
 
+I will post Homework 2 today
+
 ### Topics
 
-- Wrap up inference for a proportion
+- Prior predictive checking
 
-- Start inference for the mean with discrete priors
+- Sensitivity analysis
+
+- Weak/vauge priors
+
+- Posterior predictive checks
+
+### Materials
+
+[Slides](https://aloy.github.io/stat340-notes-fa21/05-weak-priors.pdf) (We'll wrap up Wednesday's slides first, and then look at these)
+
 
 ### Before next time
 
-1. Read sections 8.1-8.3
+1. Read sections 8.1-8.5. We won't discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read. 
 
 2. Start homework 2
 
