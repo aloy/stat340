@@ -88,30 +88,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
 <title>Stat 340, Fall 2021: Week 02: Univariate inference</title>
 
-<meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
+<meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
 
 
 <!--  https://schema.org/Article -->
-<meta property="article:published" itemprop="datePublished" content="2021-09-23"/>
-<meta property="article:created" itemprop="dateCreated" content="2021-09-23"/>
+<meta property="article:published" itemprop="datePublished" content="2021-09-26"/>
+<meta property="article:created" itemprop="dateCreated" content="2021-09-26"/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
 <meta property="og:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
+<meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:site_name" content="Stat 340, Fall 2021"/>
 
 <!--  https://dev.twitter.com/cards/types/summary -->
 <meta property="twitter:card" content="summary"/>
 <meta property="twitter:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
-<meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll discuss how to use prior information to select prior distribution, and we&#39;ll start inference for a mean."/>
+<meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
 
 <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean."]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-23-2021"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","output","draft","date"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also discuss how to use prior information to select prior distributions."]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["09-26-2021"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -2061,7 +2061,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.","authors":[],"publishedDate":"2021-09-23T00:00:00.000+00:00"}
+{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also discuss how to use prior information to select prior distributions.","authors":[],"publishedDate":"2021-09-26T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2090,7 +2090,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <h1>Week 02: Univariate inference</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll discuss how to use prior information to select prior distribution, and we’ll start inference for a mean.</p></p>
+<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll also discuss how to use prior information to select prior distributions.</p></p>
 </div>
 
 
@@ -2147,6 +2147,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ul>
 <h3 id="materials-2">Materials</h3>
 <p><a href="https://aloy.github.io/stat340-notes-fa21/05-weak-priors.pdf">Slides</a> (We’ll wrap up Wednesday’s slides first, and then look at these)</p>
+<p><a href="https://docs.google.com/document/d/1IyTimbmb0g0YG1lhs7cbWY69-h4ihcRWtrU-DAcXEqU/edit?usp=sharing">Collaborative notes</a></p>
 <h3 id="before-next-time-2">Before next time</h3>
 <ol type="1">
 <li><p>Read sections 8.1-8.5. We won’t discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read.</p></li>

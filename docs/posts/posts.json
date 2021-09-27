@@ -6,21 +6,21 @@
     "author": [],
     "date": "2021-09-27",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nComing soon…\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nModeling measurement data\nMaterials\nComing soon…\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 8.8\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nI will post Homework 3 today\nTopics\nModeling count data\nMaterials\nComing soon…\nBefore next time\nRead section 9.1 for motivation\nStart homework 3\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nSlides\nYour turns\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nModeling measurement data\nMaterials\nComing soon…\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 8.8\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nI will post Homework 3 today\nTopics\nModeling count data\nMaterials\nComing soon…\nBefore next time\nRead section 9.1 for motivation\nStart homework 3\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-24T12:14:58-05:00",
+    "last_modified": "2021-09-26T20:35:25-05:00",
     "input_file": {}
   },
   {
     "path": "posts/week02/",
     "title": "Week 02: Univariate inference",
-    "description": "This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll discuss how to use prior information to select prior distribution, and we'll start inference for a mean.",
+    "description": "This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also discuss how to use prior information to select prior distributions.",
     "author": [],
-    "date": "2021-09-23",
+    "date": "2021-09-26",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics\nInference with continuous priors\nMaterials\nSlides\nYour turns (you can copy and paste code from here)\nCollaborative notes\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics\nPredicting a new observation\nChoosing informative priors\nMaterials\nWe’ll wrap up Monday’s slides, and then look at these slides on prior elicitation\nYour turns\n.Rmd file for your turns\nCollaborative notes\nBefore next time\nFinish homework 1 and upload to Gradescope before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nI will post Homework 2 today\nTopics\nPrior predictive checking\nSensitivity analysis\nWeak/vauge priors\nPosterior predictive checks\nMaterials\nSlides (We’ll wrap up Wednesday’s slides first, and then look at these)\nBefore next time\nRead sections 8.1-8.5. We won’t discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read.\nStart homework 2\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 20 Sept\nWednesday, 22 Sept\nFriday, 24 Sept\n\nMonday, 20 Sept\nTopics\nInference with continuous priors\nMaterials\nSlides\nYour turns (you can copy and paste code from here)\nCollaborative notes\nBefore next time\nReview section 7.3.2, read section 7.6\nWork on homework 1\nWednesday, 22 Sept\nTopics\nPredicting a new observation\nChoosing informative priors\nMaterials\nWe’ll wrap up Monday’s slides, and then look at these slides on prior elicitation\nYour turns\n.Rmd file for your turns\nCollaborative notes\nBefore next time\nFinish homework 1 and upload to Gradescope before Friday’s class\nFriday, 24 Sept\nAnnouncements\nHomework 1 is due by 9:40 am\nI will post Homework 2 today\nTopics\nPrior predictive checking\nSensitivity analysis\nWeak/vauge priors\nPosterior predictive checks\nMaterials\nSlides (We’ll wrap up Wednesday’s slides first, and then look at these)\nCollaborative notes\nBefore next time\nRead sections 8.1-8.5. We won’t discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read.\nStart homework 2\n\n\n\n",
     "preview": "posts/week02/densities.png",
-    "last_modified": "2021-09-23T22:32:20-05:00",
+    "last_modified": "2021-09-26T20:37:17-05:00",
     "input_file": {}
   },
   {

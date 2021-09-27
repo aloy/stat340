@@ -25,7 +25,11 @@ Modeling measurement data
 
 ### Materials
 
-Coming soon...
+[Slides](https://aloy.github.io/stat340-notes-fa21/06-normal-mean.pdf)
+
+[Your turns](https://aloy.github.io/stat340-notes-fa21/06H-normal-mean-derive.pdf)
+
+
 
 ### Before next time
 

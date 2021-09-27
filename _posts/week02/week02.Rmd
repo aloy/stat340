@@ -90,6 +90,8 @@ I will post Homework 2 today
 
 [Slides](https://aloy.github.io/stat340-notes-fa21/05-weak-priors.pdf) (We'll wrap up Wednesday's slides first, and then look at these)
 
+[Collaborative notes](https://docs.google.com/document/d/1IyTimbmb0g0YG1lhs7cbWY69-h4ihcRWtrU-DAcXEqU/edit?usp=sharing)
+
 
 ### Before next time
 
