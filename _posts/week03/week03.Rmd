@@ -29,6 +29,7 @@ Modeling measurement data
 
 [Your turns](https://aloy.github.io/stat340-notes-fa21/06H-normal-mean-derive.pdf)
 
+[Collaborative notes](https://docs.google.com/document/d/1rkwZ_b2R9ZiSzZ9CC2xE--sAq2Jjw5AVSmxogXwooB4/edit?usp=sharing)
 
 
 ### Before next time
