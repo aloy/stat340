@@ -56,6 +56,12 @@ Modeling measurement data
 
 - [Your turns](https://aloy.github.io/stat340-notes-fa21/07H-poisson-example.pdf)
 
+Here's the code to pull in the `gamma_solver()`:
+
+```{r eval=FALSE, echo=TRUE}
+devtools::source_gist("https://gist.github.com/aloy/9d0385363663a28bd8eccf85bf9475bf")
+```
+
 
 
 ### Before next time

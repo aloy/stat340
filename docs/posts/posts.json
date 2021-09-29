@@ -6,9 +6,9 @@
     "author": [],
     "date": "2021-09-27",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nSlides\nYour turns\nCollaborative notes\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nPosterior predictive for measurement data\nModeling count data\nMaterials\nFirst, We’ll wrap up Monday’s slides\nSlides for count data\nYour turns\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 9.1\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nI will post Homework 3 today\nTopics\nTwo-parameter normal model\nMaterials\nComing soon…\nBefore next time\nStart homework 3\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nSlides\nYour turns\nCollaborative notes\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nPosterior predictive for measurement data\nModeling count data\nMaterials\nFirst, We’ll wrap up Monday’s slides\nSlides for count data\nYour turns\nHere’s the code to pull in the gamma_solver():\n\n\ndevtools::source_gist(\"https://gist.github.com/aloy/9d0385363663a28bd8eccf85bf9475bf\")\n\n\n\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 9.1\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nI will post Homework 3 today\nTopics\nTwo-parameter normal model\nMaterials\nComing soon…\nBefore next time\nStart homework 3\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-28T22:33:20-05:00",
+    "last_modified": "2021-09-29T11:24:13-05:00",
     "input_file": "week03.knit.md"
   },
   {
