@@ -44,18 +44,27 @@ Modeling measurement data
 
 ### Topics
 
-Modeling measurement data
+- Posterior predictive for measurement data
+
+- Modeling count data
 
 ### Materials
 
-Coming soon...
+- First, We'll wrap up Monday's slides
+
+- [Slides for count data](https://aloy.github.io/stat340-notes-fa21/07-poisson-count.pdf)
+
+- [Your turns](https://aloy.github.io/stat340-notes-fa21/07H-poisson-example.pdf)
+
 
 
 ### Before next time
 
 1. Finish homework 2 and upload to Gradescope before Friday's class
 
-1. Read section 8.8
+1. Read section 9.1
+
+
 
 ## Friday, 24 Sept
 
@@ -67,7 +76,7 @@ I will post Homework 3 today
 
 ### Topics
 
-Modeling count data
+Two-parameter normal model
 
 
 ### Materials
@@ -77,9 +86,7 @@ Coming soon...
 
 ### Before next time
 
-1. Read section 9.1 for motivation
-
-2. Start homework 3
+1. Start homework 3
 
 
 
