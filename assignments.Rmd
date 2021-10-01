@@ -20,4 +20,18 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Probability review](https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0) (not due)
 
 
+## Problem topic correspondence
+
+Abbreviation: H1Q1 = Homework 1, Q1
+
+#### Module 1
+
+Problem Topic | Homework problem(s)
+------|-------------------
+1  | H1Q3, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q4
+2  | H1Q1, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q3, H2Q5
+3  | H1Q1, H1Q2, H1Q5, H2Q3
+4  | H1Q2, H2Q4
+5  | H2Q2, H2Q4
+
 
