@@ -1,0 +1,81 @@
+---
+title: "Week 04: Working toward MCMC"
+description: |
+  This week we'll explore another multiparameter model and learn a little bit of background about Markov chains so that we can delve into MCMC soon. Exam 1 is Friday.
+date: 10-04-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Monday, 4 Oct
+
+### Topics
+
+- Multiparameter models: Two-sample models
+
+### Materials
+
+Check back soon...
+
+### Before next time
+
+1. Read section 9.1 (I'll fill in a few more details)
+
+1. Work on homework 3
+
+1. Study for exam 1
+
+
+
+## Wednesday, 6 Oct
+
+### Topics
+
+- Overview of Markov chains
+
+### Materials
+
+Check back soon...
+
+
+
+### Before next time
+
+1. Work on homework 3
+
+1. Study for exam 1
+
+
+
+## Friday, 8 Oct
+
+### Announcements
+
+- Homework 3 is due Monday by 9:50 am
+
+- I will post Homework 4 today
+
+### Topics
+
+Exam 1 is today
+
+
+### Before next time
+
+1. Finish homework 3
+
+1. Read sections 9.3-9.4
+
+
+
+
+
+

@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week04/",
+    "title": "Week 04: Working toward MCMC",
+    "description": "This week we'll explore another multiparameter model and learn a little bit of background about Markov chains so that we can delve into MCMC soon. Exam 1 is Friday.",
+    "author": [],
+    "date": "2021-10-04",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 4 Oct\nWednesday, 6 Oct\nFriday, 8 Oct\n\nMonday, 4 Oct\nTopics\nMultiparameter models: Two-sample models\nMaterials\nCheck back soon…\nBefore next time\nRead section 9.1 (I’ll fill in a few more details)\nWork on homework 3\nStudy for exam 1\nWednesday, 6 Oct\nTopics\nOverview of Markov chains\nMaterials\nCheck back soon…\nBefore next time\nWork on homework 3\nStudy for exam 1\nFriday, 8 Oct\nAnnouncements\nHomework 3 is due Monday by 9:50 am\nI will post Homework 4 today\nTopics\nExam 1 is today\nBefore next time\nFinish homework 3\nRead sections 9.3-9.4\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-01T16:34:33-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/week03/",
     "title": "Week 03: Means and counts",
     "description": "This week, we'll discuss Bayesian models for measurement and count data. \nSpecifically, well explore using the normal distribution with known variance for\nmeasurement data and the Poisson distribution for count data.",
