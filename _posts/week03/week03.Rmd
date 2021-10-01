@@ -76,23 +76,34 @@ devtools::source_gist("https://gist.github.com/aloy/9d0385363663a28bd8eccf85bf94
 
 ### Announcements
 
-Homework 2 is due by 9:40 am
+- Homework 2 is due by 9:40 am
 
-I will post Homework 3 today
+- [Writing assignment 1 draft](https://www.dropbox.com/s/8o5xinuv0cnwp13/01-prior-tuning.pdf?dl=0) is due Monday by 9:50 am
+
+- I will post Homework 3 today
+
+- Exam 1 is Friday, October 8
 
 ### Topics
 
-Two-parameter normal model
+- Two-parameter normal model
+
+- Grid approximation
 
 
 ### Materials
 
-Coming soon...
+[Slides](https://aloy.github.io/stat340-notes-fa21/08-intro-multiparameter.pdf)
+
+[R code handout](https://aloy.github.io/stat340-notes-fa21/08H-multiparameter.html)
 
 
 ### Before next time
 
+1. Write [prior tuning draft](https://www.dropbox.com/s/8o5xinuv0cnwp13/01-prior-tuning.pdf?dl=0), submit this on Moodle for peer review
+
 1. Start homework 3
+
 
 
 
