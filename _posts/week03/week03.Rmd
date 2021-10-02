@@ -97,6 +97,7 @@ devtools::source_gist("https://gist.github.com/aloy/9d0385363663a28bd8eccf85bf94
 
 [R code handout](https://aloy.github.io/stat340-notes-fa21/08H-multiparameter.html)
 
+[Collaborative notes](https://docs.google.com/document/d/1UcO_wUhMVWqCqcHgAVwlVgLp7W3GnTCW0EDrMt0edxo/edit?usp=sharing)
 
 ### Before next time
 
