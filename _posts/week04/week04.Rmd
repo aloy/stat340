@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Materials
 
-Check back soon...
+[Example solutions](https://aloy.github.io/stat340-notes-fa21/09H-solution-comparisons.html) (You can download the code from that file as well)
 
 ### Before next time
 
