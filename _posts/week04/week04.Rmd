@@ -43,21 +43,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Materials
 
-Check back soon...
+[Markov Chain handout](https://aloy.github.io/stat340-notes-fa21/10H-markov_chains.pdf)
+
 
 
 
 ### Before next time
 
-1. Work on homework 3
+1. Finish writing assignment 1, submit on Gradescope
 
 1. Study for exam 1
+
+1. Work on homework 3
 
 
 
 ## Friday, 8 Oct
 
 ### Announcements
+
+- Writing assignment 1 is due today at 9:40 am
 
 - Homework 3 is due Monday by 9:50 am
 

@@ -6,10 +6,10 @@
     "author": [],
     "date": "2021-10-04",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 4 Oct\nWednesday, 6 Oct\nFriday, 8 Oct\n\nMonday, 4 Oct\nTopics\nMultiparameter models: Two-sample models\nMaterials\nExample solutions (You can download the code from that file as well)\nBefore next time\nRead section 9.1 (I’ll fill in a few more details)\nWork on homework 3\nStudy for exam 1\nWednesday, 6 Oct\nTopics\nOverview of Markov chains\nMaterials\nCheck back soon…\nBefore next time\nWork on homework 3\nStudy for exam 1\nFriday, 8 Oct\nAnnouncements\nHomework 3 is due Monday by 9:50 am\nI will post Homework 4 today\nTopics\nExam 1 is today\nBefore next time\nFinish homework 3\nRead sections 9.3-9.4\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 4 Oct\nWednesday, 6 Oct\nFriday, 8 Oct\n\nMonday, 4 Oct\nTopics\nMultiparameter models: Two-sample models\nMaterials\nExample solutions (You can download the code from that file as well)\nBefore next time\nRead section 9.1 (I’ll fill in a few more details)\nWork on homework 3\nStudy for exam 1\nWednesday, 6 Oct\nTopics\nOverview of Markov chains\nMaterials\nMarkov Chain handout\nBefore next time\nFinish writing assignment 1, submit on Gradescope\nStudy for exam 1\nWork on homework 3\nFriday, 8 Oct\nAnnouncements\nWriting assignment 1 is due today at 9:40 am\nHomework 3 is due Monday by 9:50 am\nI will post Homework 4 today\nTopics\nExam 1 is today\nBefore next time\nFinish homework 3\nRead sections 9.3-9.4\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-10-04T12:25:09-05:00",
-    "input_file": "week04.knit.md"
+    "last_modified": "2021-10-05T22:02:27-05:00",
+    "input_file": {}
   },
   {
     "path": "posts/week03/",
@@ -21,7 +21,7 @@
     "contents": "\n\nContents\nMonday, 27 Sept\nWednesday, 28 Sept\nFriday, 24 Sept\n\nMonday, 27 Sept\nTopics\nModeling measurement data\nMaterials\nSlides\nYour turns\nCollaborative notes\nBefore next time\nRead sections 8.6-8.7\nWork on homework 2\nWednesday, 28 Sept\nTopics\nPosterior predictive for measurement data\nModeling count data\nMaterials\nFirst, We’ll wrap up Monday’s slides\nSlides for count data\nYour turns\nHere’s the code to pull in the gamma_solver():\n\n\ndevtools::source_gist(\"https://gist.github.com/aloy/9d0385363663a28bd8eccf85bf9475bf\")\n\n\n\nBefore next time\nFinish homework 2 and upload to Gradescope before Friday’s class\nRead section 9.1\nFriday, 24 Sept\nAnnouncements\nHomework 2 is due by 9:40 am\nWriting assignment 1 draft is due Monday by 9:50 am\nI will post Homework 3 today\nExam 1 is Friday, October 8\nTopics\nTwo-parameter normal model\nGrid approximation\nMaterials\nSlides\nR code handout\nCollaborative notes\nBefore next time\nWrite prior tuning draft, submit this on Moodle for peer review\nStart homework 3\n\n\n\n",
     "preview": {},
     "last_modified": "2021-10-02T13:21:44-05:00",
-    "input_file": "week03.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week02/",
