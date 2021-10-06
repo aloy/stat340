@@ -25,6 +25,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Example solutions](https://aloy.github.io/stat340-notes-fa21/09H-solution-comparisons.html) (You can download the code from that file as well)
 
+[Collaborative notes](https://docs.google.com/document/d/14hZxwYyT4rVMfYwsKGqsOIkzppKmUGmw6dFTDOv1Cj8/edit?usp=sharing)
+
 ### Before next time
 
 1. Read section 9.1 (I'll fill in a few more details)
