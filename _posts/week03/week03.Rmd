@@ -54,6 +54,9 @@ Modeling measurement data
 
 - [Slides for count data](https://aloy.github.io/stat340-notes-fa21/07-poisson-count.pdf)
 
+
+- [Collaborative notes](https://docs.google.com/document/d/1GO3qbaj0cyBwL1B3ohX2zK4YNf82_LyfViA6zOJwpjg/edit?usp=sharing)
+
 - [Your turns](https://aloy.github.io/stat340-notes-fa21/07H-poisson-example.pdf)
 
 Here's the code to pull in the `gamma_solver()`:
