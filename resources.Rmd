@@ -24,6 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Token spending form](https://docs.google.com/forms/d/e/1FAIpQLScCSNn6w9EXqJhiC21rTxxuCbETh67Bw6IHJNhIiwogZFSehQ/viewform?usp=sf_link)
 
+- [Talk reflection form](https://forms.gle/w7B6QNxEhDLciv3c8) (Fill this out to earn a token for attending a stats/data science colloquium.)
+
 - [Mistake report](https://docs.google.com/forms/d/e/1FAIpQLSePMLRb2a8xA7dd1FnUeMX0M8zbA-DqvlXF10H9vBQFE9sskg/viewform?usp=sf_link)
 
 - [Grade tracking checklist](https://docs.google.com/document/d/1DmANpyuV57ZKAgJPllvwd59EiYxaAoZmTRFHywaR--E/edit?usp=sharing)

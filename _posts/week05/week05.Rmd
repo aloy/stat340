@@ -1,0 +1,87 @@
+---
+title: "Week 05: Introduction to MCMC"
+description: |
+  This week we'll learn how to approximate posterior
+  distributions using Markov Chain Monte Carlo (MCMC) 
+  methods. Specific focus will be on the Metropolis 
+  algorithm and the Gibbs sampler. 
+date: 10-11-2021
+preview: run_mcmc.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Monday, 11 Oct
+
+### Announcements
+
+Homework 3 is due today by 9:50 am
+
+
+### Topics
+
+- Metropolis algorithm
+
+### Materials
+
+Slides coming soon...
+
+### Before next time
+
+1. Read section 9.5
+
+1. Work on homework 4
+
+
+
+## Wednesday, 13 Oct
+
+### Topics
+
+- Gibbs sampling
+
+### Materials
+
+Slides coming soon...
+
+
+### Before next time
+
+1. Read section 9.7
+
+1.Finish homework 4
+
+
+
+## Friday, 15 Oct
+
+### Announcements
+
+- Homework 4 is due by 9:40 am
+
+### Topics
+
+- Using JAGS
+
+
+### Before next time
+
+1. Start homework 5
+
+1. Reading TBD
+
+
+
+
+
+

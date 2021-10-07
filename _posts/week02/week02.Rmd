@@ -82,7 +82,7 @@ I will post Homework 2 today
 
 - Sensitivity analysis
 
-- Weak/vauge priors
+- Weak/vague priors
 
 - Posterior predictive checks
 
