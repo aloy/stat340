@@ -3,6 +3,7 @@ title: "Week 02: Univariate inference"
 description: |
   This week we'll discuss how to use continuous priors and make predictions 
   for proportions. We'll also discuss how to use prior information to select prior distributions.
+date: 09-20-2021
 preview: densities.png
 output:
   distill::distill_article:

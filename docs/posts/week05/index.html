@@ -86,37 +86,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-<title>Stat 340, Fall 2021: Week 02: Univariate inference</title>
+<title>Stat 340, Fall 2021: Week 05: Introduction to MCMC</title>
 
-<meta property="description" itemprop="description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
+<meta property="description" itemprop="description" content="This week we&#39;ll learn how to approximate posterior&#10;distributions using Markov Chain Monte Carlo (MCMC) &#10;methods. Specific focus will be on the Metropolis &#10;algorithm and the Gibbs sampler."/>
 
 
 <!--  https://schema.org/Article -->
-<meta property="article:published" itemprop="datePublished" content="2021-09-20"/>
-<meta property="article:created" itemprop="dateCreated" content="2021-09-20"/>
+<meta property="article:published" itemprop="datePublished" content="2021-10-11"/>
+<meta property="article:created" itemprop="dateCreated" content="2021-10-11"/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-<meta property="og:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
+<meta property="og:title" content="Stat 340, Fall 2021: Week 05: Introduction to MCMC"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
+<meta property="og:description" content="This week we&#39;ll learn how to approximate posterior&#10;distributions using Markov Chain Monte Carlo (MCMC) &#10;methods. Specific focus will be on the Metropolis &#10;algorithm and the Gibbs sampler."/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:site_name" content="Stat 340, Fall 2021"/>
 
 <!--  https://dev.twitter.com/cards/types/summary -->
 <meta property="twitter:card" content="summary"/>
-<meta property="twitter:title" content="Stat 340, Fall 2021: Week 02: Univariate inference"/>
-<meta property="twitter:description" content="This week we&#39;ll discuss how to use continuous priors and make predictions &#10;for proportions. We&#39;ll also discuss how to use prior information to select prior distributions."/>
+<meta property="twitter:title" content="Stat 340, Fall 2021: Week 05: Introduction to MCMC"/>
+<meta property="twitter:description" content="This week we&#39;ll learn how to approximate posterior&#10;distributions using Markov Chain Monte Carlo (MCMC) &#10;methods. Specific focus will be on the Metropolis &#10;algorithm and the Gibbs sampler."/>
 
 <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","preview","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 02: Univariate inference"]},{"type":"character","attributes":{},"value":["This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also discuss how to use prior information to select prior distributions."]},{"type":"character","attributes":{},"value":["09-20-2021"]},{"type":"character","attributes":{},"value":["densities.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","preview","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 05: Introduction to MCMC"]},{"type":"character","attributes":{},"value":["This week we'll learn how to approximate posterior\ndistributions using Markov Chain Monte Carlo (MCMC) \nmethods. Specific focus will be on the Metropolis \nalgorithm and the Gibbs sampler."]},{"type":"character","attributes":{},"value":["10-11-2021"]},{"type":"character","attributes":{},"value":["run_mcmc.jpg"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["densities.png","week02_files/anchor-4.2.2/anchor.min.js","week02_files/bowser-1.9.3/bowser.min.js","week02_files/distill-2.2.21/template.v2.js","week02_files/header-attrs-2.10/header-attrs.js","week02_files/header-attrs-2.11/header-attrs.js","week02_files/jquery-1.11.3/jquery.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.js","week02_files/jquery-3.6.0/jquery-3.6.0.min.map","week02_files/popper-2.6.0/popper.min.js","week02_files/tippy-6.2.7/tippy-bundle.umd.min.js","week02_files/tippy-6.2.7/tippy-light-border.css","week02_files/tippy-6.2.7/tippy.css","week02_files/tippy-6.2.7/tippy.umd.min.js","week02_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["run_mcmc.jpg","week05_files/anchor-4.2.2/anchor.min.js","week05_files/bowser-1.9.3/bowser.min.js","week05_files/distill-2.2.21/template.v2.js","week05_files/header-attrs-2.11/header-attrs.js","week05_files/jquery-3.6.0/jquery-3.6.0.js","week05_files/jquery-3.6.0/jquery-3.6.0.min.js","week05_files/jquery-3.6.0/jquery-3.6.0.min.map","week05_files/popper-2.6.0/popper.min.js","week05_files/tippy-6.2.7/tippy-bundle.umd.min.js","week05_files/tippy-6.2.7/tippy-light-border.css","week05_files/tippy-6.2.7/tippy.css","week05_files/tippy-6.2.7/tippy.umd.min.js","week05_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2061,7 +2061,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 02: Univariate inference","description":"This week we'll discuss how to use continuous priors and make predictions \nfor proportions. We'll also discuss how to use prior information to select prior distributions.","authors":[],"publishedDate":"2021-09-20T00:00:00.000+00:00"}
+{"title":"Week 05: Introduction to MCMC","description":"This week we'll learn how to approximate posterior\ndistributions using Markov Chain Monte Carlo (MCMC) \nmethods. Specific focus will be on the Metropolis \nalgorithm and the Gibbs sampler.","authors":[],"publishedDate":"2021-10-11T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2087,10 +2087,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Week 02: Univariate inference</h1>
+<h1>Week 05: Introduction to MCMC</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week we’ll discuss how to use continuous priors and make predictions for proportions. We’ll also discuss how to use prior information to select prior distributions.</p></p>
+<p><p>This week we’ll learn how to approximate posterior distributions using Markov Chain Monte Carlo (MCMC) methods. Specific focus will be on the Metropolis algorithm and the Gibbs sampler.</p></p>
 </div>
 
 
@@ -2099,59 +2099,53 @@ document.addEventListener('DOMContentLoaded', function() {
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#monday-20-sept">Monday, 20 Sept</a></li>
-<li><a href="#wednesday-22-sept">Wednesday, 22 Sept</a></li>
-<li><a href="#friday-24-sept">Friday, 24 Sept</a></li>
+<li><a href="#monday-11-oct">Monday, 11 Oct</a></li>
+<li><a href="#wednesday-13-oct">Wednesday, 13 Oct</a></li>
+<li><a href="#friday-15-oct">Friday, 15 Oct</a></li>
 </ul>
 </nav>
 </div>
-<h2 id="monday-20-sept">Monday, 20 Sept</h2>
+<h2 id="monday-11-oct">Monday, 11 Oct</h2>
+<h3 id="announcements">Announcements</h3>
+<p>Homework 3 is due today by 9:50 am</p>
+<p>Homework 4 is due Friday by 9:40 am</p>
 <h3 id="topics">Topics</h3>
 <ul>
-<li>Inference with continuous priors</li>
+<li><p>Metropolis algorithm</p></li>
+<li><p>MCMC diagnostics</p></li>
 </ul>
 <h3 id="materials">Materials</h3>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/03-prop-continuous-prior.pdf">Slides</a></p>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/03H-posterior-examples">Your turns</a> (you can copy and paste code from here)</p>
-<p><a href="https://docs.google.com/document/d/1hqi2f3YOLiJ7OVtRGa9TWrkF0sW-Mku4mA2kNc9tpSQ/edit?usp=sharing">Collaborative notes</a></p>
+<p>Slides coming soon…</p>
 <h3 id="before-next-time">Before next time</h3>
 <ol type="1">
-<li><p>Review section 7.3.2, read section 7.6</p></li>
-<li><p>Work on homework 1</p></li>
+<li><p>Read section 9.5</p></li>
+<li><p>Work on homework 4</p></li>
 </ol>
-<h2 id="wednesday-22-sept">Wednesday, 22 Sept</h2>
+<h2 id="wednesday-13-oct">Wednesday, 13 Oct</h2>
 <h3 id="topics-1">Topics</h3>
 <ul>
-<li><p>Predicting a new observation</p></li>
-<li><p>Choosing informative priors</p></li>
+<li><p>Gibbs sampler</p></li>
+<li><p>MCMC diagnostics</p></li>
 </ul>
 <h3 id="materials-1">Materials</h3>
-<p>We’ll wrap up Monday’s slides, and then look at these <a href="https://aloy.github.io/stat340-notes-fa21/04-prior-elicitation.pdf">slides</a> on prior elicitation</p>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.pdf">Your turns</a></p>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/04H-prior-elicitation.Rmd">.Rmd file for your turns</a></p>
-<p><a href="https://docs.google.com/document/d/1hxxIdmDbJxphO1YEpr255HuUDCTMvfTEGXIcq-or5t8/edit?usp=sharing">Collaborative notes</a></p>
+<p>Slides coming soon…</p>
 <h3 id="before-next-time-1">Before next time</h3>
 <ol type="1">
-<li>Finish homework 1 and upload to Gradescope before Friday’s class</li>
+<li><p>Read section 9.7</p></li>
+<li><p>Finish homework 4</p></li>
 </ol>
-<h2 id="friday-24-sept">Friday, 24 Sept</h2>
-<h3 id="announcements">Announcements</h3>
-<p>Homework 1 is due by 9:40 am</p>
-<p>I will post Homework 2 today</p>
+<h2 id="friday-15-oct">Friday, 15 Oct</h2>
+<h3 id="announcements-1">Announcements</h3>
+<ul>
+<li>Homework 4 is due by 9:40 am</li>
+</ul>
 <h3 id="topics-2">Topics</h3>
 <ul>
-<li><p>Prior predictive checking</p></li>
-<li><p>Sensitivity analysis</p></li>
-<li><p>Weak/vague priors</p></li>
-<li><p>Posterior predictive checks</p></li>
+<li>Using JAGS</li>
 </ul>
-<h3 id="materials-2">Materials</h3>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/05-weak-priors.pdf">Slides</a> (We’ll wrap up Wednesday’s slides first, and then look at these)</p>
-<p><a href="https://docs.google.com/document/d/1IyTimbmb0g0YG1lhs7cbWY69-h4ihcRWtrU-DAcXEqU/edit?usp=sharing">Collaborative notes</a></p>
 <h3 id="before-next-time-2">Before next time</h3>
 <ol type="1">
-<li><p>Read sections 8.1-8.5. We won’t discuss the discrete priors in section 8.3 much in class, but it will help you build your understanding as your read.</p></li>
-<li><p>Start homework 2</p></li>
+<li>Start homework 5</li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

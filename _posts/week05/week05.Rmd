@@ -12,7 +12,7 @@ output:
     self_contained: false
     toc: true
     toc_depth: 2
-draft: true
+draft: false
 ---
 
 
@@ -27,10 +27,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Homework 3 is due today by 9:50 am
 
+Homework 4 is due Friday by 9:40 am
+
 
 ### Topics
 
 - Metropolis algorithm
+
+- MCMC diagnostics
 
 ### Materials
 
@@ -48,7 +52,9 @@ Slides coming soon...
 
 ### Topics
 
-- Gibbs sampling
+- Gibbs sampler
+
+- MCMC diagnostics
 
 ### Materials
 
@@ -59,7 +65,7 @@ Slides coming soon...
 
 1. Read section 9.7
 
-1.Finish homework 4
+1. Finish homework 4
 
 
 
@@ -78,7 +84,6 @@ Slides coming soon...
 
 1. Start homework 5
 
-1. Reading TBD
 
 
 
