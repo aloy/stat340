@@ -47,6 +47,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Markov Chain handout](https://aloy.github.io/stat340-notes-fa21/10H-markov_chains.pdf)
 
+[Collaborative notes](https://docs.google.com/document/d/1gNr9v2bob-ADcpyRnLVbdlLQmol8lEwRYpD31j7rG90/edit?usp=sharing)
+
 
 
 
