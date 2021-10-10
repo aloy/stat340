@@ -38,7 +38,10 @@ Homework 4 is due Friday by 9:40 am
 
 ### Materials
 
-Slides coming soon...
+[Metropolis slides](https://aloy.github.io/stat340-notes-fa21/12-metropolis.pdf)
+
+[Metropolis code and example](https://aloy.github.io/stat340-notes-fa21/12H-metropolis.html)
+
 
 ### Before next time
 
