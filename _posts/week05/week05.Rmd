@@ -44,6 +44,7 @@ Homework 4 is due Friday by 9:40 am
 
 [Metropolis example solution](https://aloy.github.io/stat340-notes-fa21/12H-soln-metropolis.pdf)
 
+[Collaborative notes](https://docs.google.com/document/d/1Jqf6HnwLjysZdmaVlgA5Hl28RTN4v3mdGWjt8krL4Ls/edit?usp=sharing)
 
 ### Before next time
 
@@ -63,7 +64,10 @@ Homework 4 is due Friday by 9:40 am
 
 ### Materials
 
-Slides coming soon...
+[Gibbs slides](https://aloy.github.io/stat340-notes-fa21/13-gibbs.pdf)
+
+[Gibbs code](https://aloy.github.io/stat340-notes-fa21/13H-gibbs.pdf)
+
 
 
 ### Before next time

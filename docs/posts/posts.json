@@ -6,10 +6,10 @@
     "author": [],
     "date": "2021-10-11",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 11 Oct\nWednesday, 13 Oct\nFriday, 15 Oct\n\nMonday, 11 Oct\nAnnouncements\nHomework 3 is due today by 9:50 am\nHomework 4 is due Friday by 9:40 am\nTopics\nMetropolis algorithm\nMCMC diagnostics\nMaterials\nMetropolis slides\nMetropolis code and example\nMetropolis example solution\nBefore next time\nRead section 9.5\nWork on homework 4\nWednesday, 13 Oct\nTopics\nGibbs sampler\nMCMC diagnostics\nMaterials\nSlides coming soon…\nBefore next time\nRead section 9.7\nFinish homework 4\nFriday, 15 Oct\nAnnouncements\nHomework 4 is due by 9:40 am\nTopics\nUsing JAGS\nBefore next time\nStart homework 5\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 11 Oct\nWednesday, 13 Oct\nFriday, 15 Oct\n\nMonday, 11 Oct\nAnnouncements\nHomework 3 is due today by 9:50 am\nHomework 4 is due Friday by 9:40 am\nTopics\nMetropolis algorithm\nMCMC diagnostics\nMaterials\nMetropolis slides\nMetropolis code and example\nMetropolis example solution\nCollaborative notes\nBefore next time\nRead section 9.5\nWork on homework 4\nWednesday, 13 Oct\nTopics\nGibbs sampler\nMCMC diagnostics\nMaterials\nGibbs slides\nGibbs code\nBefore next time\nRead section 9.7\nFinish homework 4\nFriday, 15 Oct\nAnnouncements\nHomework 4 is due by 9:40 am\nTopics\nUsing JAGS\nBefore next time\nStart homework 5\n\n\n\n",
     "preview": "posts/week05/run_mcmc.jpg",
-    "last_modified": "2021-10-11T20:17:35-05:00",
-    "input_file": "week05.knit.md"
+    "last_modified": "2021-10-13T00:14:07-05:00",
+    "input_file": {}
   },
   {
     "path": "posts/week04/",
