@@ -88,6 +88,13 @@ Homework 4 is due Friday by 9:40 am
 
 - Using JAGS
 
+### Materials
+
+[MCMC with JAGS slides](https://aloy.github.io/stat340-notes-fa21/14-mcmc-jags.pdf)
+
+[JAGS example code](https://aloy.github.io/stat340-notes-fa21/14H-jags.html)
+
+
 
 ### Before next time
 
