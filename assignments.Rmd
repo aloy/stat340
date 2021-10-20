@@ -25,6 +25,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [Probability review](https://www.dropbox.com/s/k1o96mpyqfe3agc/hw0-prob-review.pdf?dl=0) (not due)
 
+## Writing assignments
+
+- [Writing assignment 2](https://www.dropbox.com/s/7qbimt4fd5dyy27/02-posterior-conclusions.pdf?dl=0) - Draft due Oct 22, Final due Oct 25
+
+- [Writing assignment 1](https://www.dropbox.com/s/8o5xinuv0cnwp13/01-prior-tuning.pdf?dl=0)
+
+
 
 ## Problem topic correspondence
 
@@ -34,10 +41,25 @@ Abbreviation: H1Q1 = Homework 1, Q1
 
 Problem Topic | Homework problem(s)
 ------|-------------------
-1  | H1Q3, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q4
-2  | H1Q1, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q3, H2Q5
-3  | H1Q1, H1Q2, H1Q5, H2Q3
+1  | H1Q3, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q4, H3Q1
+2  | H1Q1, H1Q3, H1Q4, H1Q5, H2Q1, H2Q2, H2Q3, H2Q5, H3Q2, H3Q3
+3  | H1Q1, H1Q2, H1Q5, H2Q3, H3Q3
 4  | H1Q2, H2Q4
-5  | H2Q2, H2Q4
+5  | H2Q2, H2Q4, H3Q2, H3Q3
 
+#### Module 2
 
+Abbreviation: WSOct4 = Worksheet from October 4
+
+Problem Topic | Homework problem(s)
+------|-------------------
+6  |   
+7  | H3Q4$^\dagger$, H4Q1$^\dagger$, H4Q2$^\dagger$, WSOct4
+8  | H4Q1$^*$, H4Q2$^*$, H4Q3$^*$, H4Q4$^*$, WSOct11, WSOct13
+9  | H5Q1, H5Q2, H5Q3, WSOct15
+10 | H4Q1, H4Q2, WSOct13
+11 | H3Q4, H4Q4, H5Q1, H5Q2, H5Q3, WSOct4
+
+$^\dagger=$ when you programmed the log posterior, you had to think about what the posterior was first, so it was a psuedo derivation
+
+$^*=$ if you use the algorithm, then you should be able to explain what it's doing.

@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week06/",
+    "title": "Week 06: MCMC in action",
+    "description": "This week we'll see a variety of example analyses where we implement MCMC in JAGS. We'll also talk about some practical implementation issues.",
+    "author": [],
+    "date": "2021-10-18",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 18 Oct\nWednesday, 20 Oct\nFriday, 22 Oct\n\nMonday, 18 Oct\nNo class — Midterm break\nWednesday, 20 Oct\nAnnouncements\nHomework 5 is due Friday by 9:40 am\nExam 2 is next Wednesday and will cover problem topics 6-11\nTopics\nMCMC in JAGS\nMixing and convergence\nMaterials\nJAGS slides from last week (we’ll start out finishing this discussion)\nJAGS example code from Friday\nBefore next time\nFinish homework 5\nFriday, 22 Oct\nAnnouncements\nHomework 5 is due by 9:40 am\nTopics\nSpecifying joint priors\nWrapping up JAGS\nWriting workshop (last 10 minutes)\nMaterials\nCheck back soon…\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-19T19:32:25-05:00",
+    "input_file": "week06.knit.md"
+  },
+  {
     "path": "posts/week05/",
     "title": "Week 05: Introduction to MCMC",
     "description": "This week we'll learn how to approximate posterior\ndistributions using Markov Chain Monte Carlo (MCMC) \nmethods. Specific focus will be on the Metropolis \nalgorithm and the Gibbs sampler.",
@@ -9,7 +21,7 @@
     "contents": "\n\nContents\nMonday, 11 Oct\nWednesday, 13 Oct\nFriday, 15 Oct\n\nMonday, 11 Oct\nAnnouncements\nHomework 3 is due today by 9:50 am\nHomework 4 is due Friday by 9:40 am\nTopics\nMetropolis algorithm\nMCMC diagnostics\nMaterials\nMetropolis slides\nMetropolis code and example\nMetropolis example solution\nCollaborative notes\nBefore next time\nRead section 9.5\nWork on homework 4\nWednesday, 13 Oct\nTopics\nGibbs sampler\nMCMC diagnostics\nMaterials\nGibbs slides\nGibbs code\nCollaborative notes\nBefore next time\nRead section 9.7\nFinish homework 4\nFriday, 15 Oct\nAnnouncements\nHomework 4 is due by 9:40 am\nTopics\nUsing JAGS\nMaterials\nMCMC with JAGS slides\nCollaborative notes\nJAGS example code\nBefore next time\nStart homework 5 (after break)\n\n\n\n",
     "preview": "posts/week05/run_mcmc.jpg",
     "last_modified": "2021-10-18T15:50:59-05:00",
-    "input_file": "week05.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week04/",

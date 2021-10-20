@@ -1,0 +1,68 @@
+---
+title: "Week 06: MCMC in action"
+description: |
+  This week we'll see a variety of example analyses where we implement MCMC in JAGS. We'll also talk about some practical implementation issues.
+date: 2021-10-18
+preview: run_mcmc.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Monday, 18 Oct
+
+No class — Midterm break
+
+
+## Wednesday, 20 Oct
+
+### Announcements
+
+- Homework 5 is due Friday by 9:40 am
+
+- Exam 2 is next Wednesday and will cover problem topics 6-11
+
+### Topics
+
+- MCMC in JAGS
+
+- Mixing and convergence
+
+### Materials
+
+- [JAGS slides from last week](https://aloy.github.io/stat340-notes-fa21/14-mcmc-jags.pdf) (we'll start out finishing this discussion)
+
+- [JAGS example code from Friday](https://aloy.github.io/stat340-notes-fa21/14H-jags.html)
+
+### Before next time
+
+1. Finish homework 5
+
+
+
+## Friday, 22 Oct
+
+### Announcements
+
+- Homework 5 is due by 9:40 am
+
+### Topics
+
+- Specifying joint priors
+
+- Wrapping up JAGS
+
+- Writing workshop (last 10 minutes)
+
+### Materials
+
+Check back soon...
+
