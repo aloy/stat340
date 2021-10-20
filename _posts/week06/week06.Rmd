@@ -42,6 +42,10 @@ No class — Midterm break
 
 - [JAGS example code from Friday](https://aloy.github.io/stat340-notes-fa21/14H-jags.html)
 
+- [Another JAGS example](https://aloy.github.io/stat340-notes-fa21/15H-jags-two-sample.html)
+
+- [More MCMC diagnostics slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf) (we might not get here, but I'll post them anyway)
+
 ### Before next time
 
 1. Finish homework 5
