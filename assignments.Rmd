@@ -28,6 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Writing assignments
 
 - [Writing assignment 2](https://www.dropbox.com/s/7qbimt4fd5dyy27/02-posterior-conclusions.pdf?dl=0) - Draft due Oct 22, Final due Oct 25
+    + [writing2-sleep-time-draws.csv](https://aloy.github.io/stat340-notes-fa21/data/writing2-sleep-time-draws.csv)
 
 - [Writing assignment 1](https://www.dropbox.com/s/8o5xinuv0cnwp13/01-prior-tuning.pdf?dl=0)
 
