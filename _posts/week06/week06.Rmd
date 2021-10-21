@@ -40,11 +40,13 @@ No class — Midterm break
 
 - [JAGS slides from last week](https://aloy.github.io/stat340-notes-fa21/14-mcmc-jags.pdf) (we'll start out finishing this discussion)
 
+
+- [Collaborative notes](https://docs.google.com/document/d/1PeHgRGklfsCSuGCEmJT5pq6bkS8DEXg1SeVT6Zw7Qq8/edit?usp=sharing)
+
 - [JAGS example code from Friday](https://aloy.github.io/stat340-notes-fa21/14H-jags.html)
 
 - [Another JAGS example](https://aloy.github.io/stat340-notes-fa21/15H-jags-two-sample.html)
 
-- [More MCMC diagnostics slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf) (we might not get here, but I'll post them anyway)
 
 ### Before next time
 
