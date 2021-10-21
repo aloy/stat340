@@ -47,6 +47,8 @@ No class — Midterm break
 
 - [Another JAGS example](https://aloy.github.io/stat340-notes-fa21/15H-jags-two-sample.html)
 
+- [Solution to Stroop example](https://aloy.github.io/stat340-notes-fa21/15H-soln-jags-two-sample.pdf)
+
 
 ### Before next time
 
