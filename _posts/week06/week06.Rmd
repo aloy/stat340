@@ -54,6 +54,8 @@ No class — Midterm break
 
 1. Finish homework 5
 
+1. Finish writing 2 draft
+
 
 
 ## Friday, 22 Oct
@@ -72,5 +74,13 @@ No class — Midterm break
 
 ### Materials
 
-Check back soon...
+[Slides on tuning joint priors](https://aloy.github.io/stat340-notes-fa21/15-tuning-joint-priors.pdf)
 
+[More MCMC diagnostic slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf)
+
+
+### Before next time
+
+1. Finish final draft of writing 2
+
+1. Stay tuned for reading
