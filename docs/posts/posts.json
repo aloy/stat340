@@ -1,15 +1,27 @@
 [
   {
+    "path": "posts/week07/",
+    "title": "Week 07: Onward to hierarchical models",
+    "description": "This week we'll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We'll then start learning about hierarchical models.",
+    "author": [],
+    "date": "2021-10-25",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 25 Oct\nWednesday, 27 Oct\nFriday, 27 Oct\n\nMonday, 25 Oct\nAnnouncements\nExam 2 is Wednesday\nHomework 6 is due Monday, Nov. 1\nTopics\nMixing and convergence\nMaterials\nMore MCMC diagnostic slides\nWednesday, 27 Oct\nTopics\nExam 2\nBefore next time\nRead section\nWork on homework 6\nFriday, 27 Oct\nAnnouncements\nHomework 6 is due Monday by 9:50 am\nTopics\nIntroduction to hierarchical models\nMaterials\nSlides will be posted soon…\nBefore next time\nFinish homework 6\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-24T13:02:29-05:00",
+    "input_file": "week07.knit.md"
+  },
+  {
     "path": "posts/week06/",
     "title": "Week 06: MCMC in action",
     "description": "This week we'll see a variety of example analyses where we implement MCMC in JAGS. We'll also talk about some practical implementation issues.",
     "author": [],
     "date": "2021-10-18",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 18 Oct\nWednesday, 20 Oct\nFriday, 22 Oct\n\nMonday, 18 Oct\nNo class — Midterm break\nWednesday, 20 Oct\nAnnouncements\nHomework 5 is due Friday by 9:40 am\nExam 2 is next Wednesday and will cover problem topics 6-11\nTopics\nMCMC in JAGS\nMixing and convergence\nMaterials\nJAGS slides from last week (we’ll start out finishing this discussion)\nCollaborative notes\nJAGS example code from Friday\nAnother JAGS example\nSolution to Stroop example\nBefore next time\nFinish homework 5\nFinish writing 2 draft\nFriday, 22 Oct\nAnnouncements\nHomework 5 is due by 9:40 am\nTopics\nSpecifying joint priors\nWrapping up JAGS\nWriting workshop (last 10 minutes)\nMaterials\nSlides on tuning joint priors\nMore MCMC diagnostic slides\nBefore next time\nFinish final draft of writing 2\nStay tuned for reading\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 18 Oct\nWednesday, 20 Oct\nFriday, 22 Oct\n\nMonday, 18 Oct\nNo class — Midterm break\nWednesday, 20 Oct\nAnnouncements\nHomework 5 is due Friday by 9:40 am\nExam 2 is next Wednesday and will cover problem topics 6-11\nTopics\nMCMC in JAGS\nMixing and convergence\nMaterials\nJAGS slides from last week (we’ll start out finishing this discussion)\nCollaborative notes\nJAGS example code from Friday\nAnother JAGS example\nSolution to Stroop example\nBefore next time\nFinish homework 5\nFinish writing 2 draft\nFriday, 22 Oct\nAnnouncements\nHomework 5 is due by 9:40 am\nTopics\nSpecifying joint priors\nWrapping up JAGS\nWriting workshop (last 10 minutes)\nMaterials\nSlides on tuning joint priors\nCollaborative Notes\nBefore next time\nFinish final draft of writing 2\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-10-21T21:13:19-05:00",
-    "input_file": {}
+    "last_modified": "2021-10-24T13:08:34-05:00",
+    "input_file": "week06.knit.md"
   },
   {
     "path": "posts/week05/",

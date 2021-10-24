@@ -76,11 +76,10 @@ No class — Midterm break
 
 [Slides on tuning joint priors](https://aloy.github.io/stat340-notes-fa21/15-tuning-joint-priors.pdf)
 
-[More MCMC diagnostic slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf)
+[Collaborative Notes](https://docs.google.com/document/d/1hc6W-dIzkamoF_WQ1C62sHVPXLcwx-XZN5W52vtDg5k/edit?usp=sharing)
 
 
 ### Before next time
 
 1. Finish final draft of writing 2
 
-1. Stay tuned for reading

@@ -87,36 +87,36 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Week 06: MCMC in action</title>
+  <title>Week 07: Onward to hierarchical models</title>
 
-  <meta property="description" itemprop="description" content="This week we&#39;ll see a variety of example analyses where we implement MCMC in JAGS. We&#39;ll also talk about some practical implementation issues."/>
+  <meta property="description" itemprop="description" content="This week we&#39;ll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We&#39;ll then start learning about hierarchical models."/>
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2021-10-18"/>
-  <meta property="article:created" itemprop="dateCreated" content="2021-10-18"/>
+  <meta property="article:published" itemprop="datePublished" content="2021-10-25"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-10-25"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Week 06: MCMC in action"/>
+  <meta property="og:title" content="Week 07: Onward to hierarchical models"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="This week we&#39;ll see a variety of example analyses where we implement MCMC in JAGS. We&#39;ll also talk about some practical implementation issues."/>
+  <meta property="og:description" content="This week we&#39;ll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We&#39;ll then start learning about hierarchical models."/>
   <meta property="og:locale" content="en_US"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Week 06: MCMC in action"/>
-  <meta property="twitter:description" content="This week we&#39;ll see a variety of example analyses where we implement MCMC in JAGS. We&#39;ll also talk about some practical implementation issues."/>
+  <meta property="twitter:title" content="Week 07: Onward to hierarchical models"/>
+  <meta property="twitter:description" content="This week we&#39;ll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We&#39;ll then start learning about hierarchical models."/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","preview","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 06: MCMC in action"]},{"type":"character","attributes":{},"value":["This week we'll see a variety of example analyses where we implement MCMC in JAGS. We'll also talk about some practical implementation issues.\n"]},{"type":"character","attributes":{},"value":["2021-10-18"]},{"type":"character","attributes":{},"value":["run_mcmc.jpg"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 07: Onward to hierarchical models"]},{"type":"character","attributes":{},"value":["This week we'll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We'll then start learning about hierarchical models.\n"]},{"type":"character","attributes":{},"value":["2021-10-25"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["week06_files/anchor-4.2.2/anchor.min.js","week06_files/bowser-1.9.3/bowser.min.js","week06_files/distill-2.2.21/template.v2.js","week06_files/header-attrs-2.11/header-attrs.js","week06_files/jquery-3.6.0/jquery-3.6.0.js","week06_files/jquery-3.6.0/jquery-3.6.0.min.js","week06_files/jquery-3.6.0/jquery-3.6.0.min.map","week06_files/popper-2.6.0/popper.min.js","week06_files/tippy-6.2.7/tippy-bundle.umd.min.js","week06_files/tippy-6.2.7/tippy-light-border.css","week06_files/tippy-6.2.7/tippy.css","week06_files/tippy-6.2.7/tippy.umd.min.js","week06_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["week07_files/anchor-4.2.2/anchor.min.js","week07_files/bowser-1.9.3/bowser.min.js","week07_files/distill-2.2.21/template.v2.js","week07_files/header-attrs-2.11/header-attrs.js","week07_files/jquery-3.6.0/jquery-3.6.0.js","week07_files/jquery-3.6.0/jquery-3.6.0.min.js","week07_files/jquery-3.6.0/jquery-3.6.0.min.map","week07_files/popper-2.6.0/popper.min.js","week07_files/tippy-6.2.7/tippy-bundle.umd.min.js","week07_files/tippy-6.2.7/tippy-light-border.css","week07_files/tippy-6.2.7/tippy.css","week07_files/tippy-6.2.7/tippy.umd.min.js","week07_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1437,16 +1437,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="week06_files/header-attrs-2.11/header-attrs.js"></script>
-  <script src="week06_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <script src="week06_files/popper-2.6.0/popper.min.js"></script>
-  <link href="week06_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
-  <link href="week06_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
-  <script src="week06_files/tippy-6.2.7/tippy.umd.min.js"></script>
-  <script src="week06_files/anchor-4.2.2/anchor.min.js"></script>
-  <script src="week06_files/bowser-1.9.3/bowser.min.js"></script>
-  <script src="week06_files/webcomponents-2.0.0/webcomponents.js"></script>
-  <script src="week06_files/distill-2.2.21/template.v2.js"></script>
+  <script src="week07_files/header-attrs-2.11/header-attrs.js"></script>
+  <script src="week07_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="week07_files/popper-2.6.0/popper.min.js"></script>
+  <link href="week07_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="week07_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="week07_files/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="week07_files/anchor-4.2.2/anchor.min.js"></script>
+  <script src="week07_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="week07_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="week07_files/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
@@ -1458,7 +1458,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 06: MCMC in action","description":"This week we'll see a variety of example analyses where we implement MCMC in JAGS. We'll also talk about some practical implementation issues.","authors":[],"publishedDate":"2021-10-18T00:00:00.000-05:00"}
+{"title":"Week 07: Onward to hierarchical models","description":"This week we'll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We'll then start learning about hierarchical models.","authors":[],"publishedDate":"2021-10-25T00:00:00.000-05:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1468,10 +1468,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Week 06: MCMC in action</h1>
+<h1>Week 07: Onward to hierarchical models</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week we’ll see a variety of example analyses where we implement MCMC in JAGS. We’ll also talk about some practical implementation issues.</p></p>
+<p><p>This week we’ll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We’ll then start learning about hierarchical models.</p></p>
 </div>
 
 
@@ -1480,55 +1480,42 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#monday-18-oct">Monday, 18 Oct</a></li>
-<li><a href="#wednesday-20-oct">Wednesday, 20 Oct</a></li>
-<li><a href="#friday-22-oct">Friday, 22 Oct</a></li>
+<li><a href="#monday-25-oct">Monday, 25 Oct</a></li>
+<li><a href="#wednesday-27-oct">Wednesday, 27 Oct</a></li>
+<li><a href="#friday-27-oct">Friday, 27 Oct</a></li>
 </ul>
 </nav>
 </div>
-<h2 id="monday-18-oct">Monday, 18 Oct</h2>
-<p>No class — Midterm break</p>
-<h2 id="wednesday-20-oct">Wednesday, 20 Oct</h2>
+<h2 id="monday-25-oct">Monday, 25 Oct</h2>
 <h3 id="announcements">Announcements</h3>
-<ul>
-<li><p>Homework 5 is due Friday by 9:40 am</p></li>
-<li><p>Exam 2 is next Wednesday and will cover problem topics 6-11</p></li>
-</ul>
+<p>Exam 2 is Wednesday</p>
+<p>Homework 6 is due Monday, Nov. 1</p>
 <h3 id="topics">Topics</h3>
-<ul>
-<li><p>MCMC in JAGS</p></li>
-<li><p>Mixing and convergence</p></li>
-</ul>
+<p>Mixing and convergence</p>
 <h3 id="materials">Materials</h3>
-<ul>
-<li><p><a href="https://aloy.github.io/stat340-notes-fa21/14-mcmc-jags.pdf">JAGS slides from last week</a> (we’ll start out finishing this discussion)</p></li>
-<li><p><a href="https://docs.google.com/document/d/1PeHgRGklfsCSuGCEmJT5pq6bkS8DEXg1SeVT6Zw7Qq8/edit?usp=sharing">Collaborative notes</a></p></li>
-<li><p><a href="https://aloy.github.io/stat340-notes-fa21/14H-jags.html">JAGS example code from Friday</a></p></li>
-<li><p><a href="https://aloy.github.io/stat340-notes-fa21/15H-jags-two-sample.html">Another JAGS example</a></p></li>
-<li><p><a href="https://aloy.github.io/stat340-notes-fa21/15H-soln-jags-two-sample.pdf">Solution to Stroop example</a></p></li>
-</ul>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf">More MCMC diagnostic slides</a></p>
+<h2 id="wednesday-27-oct">Wednesday, 27 Oct</h2>
+<h3 id="topics-1">Topics</h3>
+<p>Exam 2</p>
 <h3 id="before-next-time">Before next time</h3>
 <ol type="1">
-<li><p>Finish homework 5</p></li>
-<li><p>Finish writing 2 draft</p></li>
+<li><p>Read section</p></li>
+<li><p>Work on homework 6</p></li>
 </ol>
-<h2 id="friday-22-oct">Friday, 22 Oct</h2>
+<h2 id="friday-27-oct">Friday, 27 Oct</h2>
 <h3 id="announcements-1">Announcements</h3>
 <ul>
-<li>Homework 5 is due by 9:40 am</li>
+<li>Homework 6 is due Monday by 9:50 am</li>
 </ul>
-<h3 id="topics-1">Topics</h3>
+<h3 id="topics-2">Topics</h3>
 <ul>
-<li><p>Specifying joint priors</p></li>
-<li><p>Wrapping up JAGS</p></li>
-<li><p>Writing workshop (last 10 minutes)</p></li>
+<li>Introduction to hierarchical models</li>
 </ul>
 <h3 id="materials-1">Materials</h3>
-<p><a href="https://aloy.github.io/stat340-notes-fa21/15-tuning-joint-priors.pdf">Slides on tuning joint priors</a></p>
-<p><a href="https://docs.google.com/document/d/1hc6W-dIzkamoF_WQ1C62sHVPXLcwx-XZN5W52vtDg5k/edit?usp=sharing">Collaborative Notes</a></p>
+<p>Slides will be posted soon…</p>
 <h3 id="before-next-time-1">Before next time</h3>
 <ol type="1">
-<li>Finish final draft of writing 2</li>
+<li>Finish homework 6</li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

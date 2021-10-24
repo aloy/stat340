@@ -1,0 +1,71 @@
+---
+title: "Week 07: Onward to hierarchical models"
+description: |
+  This week we'll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We'll then start learning about hierarchical models.
+date: 2021-10-25
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Monday, 25 Oct
+
+### Announcements
+
+Exam 2 is Wednesday
+
+Homework 6 is due Monday, Nov. 1
+
+### Topics
+
+Mixing and convergence
+
+### Materials
+
+[More MCMC diagnostic slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf)
+
+
+## Wednesday, 27 Oct
+
+### Topics
+
+Exam 2 
+
+
+### Before next time
+
+1. Read section 
+
+1. Work on homework 6
+
+
+
+## Friday, 27 Oct
+
+### Announcements
+
+- Homework 6 is due Monday by 9:50 am
+
+### Topics
+
+- Introduction to hierarchical models
+
+### Materials
+
+Slides will be posted soon...
+
+
+
+### Before next time
+
+1. Finish homework 6
+
