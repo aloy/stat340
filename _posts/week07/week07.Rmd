@@ -33,6 +33,8 @@ Mixing and convergence
 
 [More MCMC diagnostic slides](https://aloy.github.io/stat340-notes-fa21/15-mcmc-more-diagnostics.pdf)
 
+[Collaborative notes](https://docs.google.com/document/d/1aGGLaPlkHkPczUfS7f3HuGgOPn7L6j0oXtooF9QRWos/edit?usp=sharing)
+
 
 ## Wednesday, 27 Oct
 
