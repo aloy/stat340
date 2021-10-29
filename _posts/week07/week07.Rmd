@@ -57,17 +57,21 @@ Exam 2
 
 - Homework 6 is due Monday by 9:50 am
 
+- I will post homework 7 soon
+
 ### Topics
 
 - Introduction to hierarchical models
 
 ### Materials
 
-Slides will be posted soon...
+[Slides](https://aloy.github.io/stat340-notes-fa21/17-hierarchical-normal.pdf)
 
 
 
 ### Before next time
 
 1. Finish homework 6
+
+1. Read section 10.2
 
