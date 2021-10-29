@@ -9,7 +9,7 @@
     "contents": "\n\nContents\nMonday, 25 Oct\nWednesday, 27 Oct\nFriday, 27 Oct\n\nMonday, 25 Oct\nAnnouncements\nExam 2 is Wednesday\nHomework 6 is due Monday, Nov. 1\nTopics\nMixing and convergence\nMaterials\nMore MCMC diagnostic slides\nCollaborative notes\nWednesday, 27 Oct\nTopics\nExam 2\nBefore next time\nRead section 10.1\nWork on homework 6\nFriday, 27 Oct\nAnnouncements\nHomework 6 is due Monday by 9:50 am\nI will post homework 7 soon\nTopics\nIntroduction to hierarchical models\nMaterials\nSlides\nBefore next time\nFinish homework 6\nRead section 10.2\n\n\n\n",
     "preview": {},
     "last_modified": "2021-10-29T00:32:26-05:00",
-    "input_file": "week07.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week06/",
@@ -21,7 +21,7 @@
     "contents": "\n\nContents\nMonday, 18 Oct\nWednesday, 20 Oct\nFriday, 22 Oct\n\nMonday, 18 Oct\nNo class — Midterm break\nWednesday, 20 Oct\nAnnouncements\nHomework 5 is due Friday by 9:40 am\nExam 2 is next Wednesday and will cover problem topics 6-11\nTopics\nMCMC in JAGS\nMixing and convergence\nMaterials\nJAGS slides from last week (we’ll start out finishing this discussion)\nCollaborative notes\nJAGS example code from Friday\nAnother JAGS example\nSolution to Stroop example\nBefore next time\nFinish homework 5\nFinish writing 2 draft\nFriday, 22 Oct\nAnnouncements\nHomework 5 is due by 9:40 am\nTopics\nSpecifying joint priors\nWrapping up JAGS\nWriting workshop (last 10 minutes)\nMaterials\nSlides on tuning joint priors\nCollaborative Notes\nBefore next time\nFinish final draft of writing 2\n\n\n\n",
     "preview": {},
     "last_modified": "2021-10-24T13:08:34-05:00",
-    "input_file": "week06.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week05/",

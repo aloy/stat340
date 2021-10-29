@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Homework
 
+- [Homework 7](https://www.dropbox.com/s/irnlurn07rc2dr1/hw07.pdf?dl=0) - due on Gradescope by Monday, Nov. 5 at 9:40 am.
+
 - [Homework 6](https://www.dropbox.com/s/wi7sygs41ub6s4q/hw06.pdf?dl=0) - due on Gradescope by Monday, Nov. 1 at 9:50 am.
 
 - [Homework 5](https://www.dropbox.com/s/jexi04t8bs1snoc/hw05.pdf?dl=0) - due on Gradescope by Friday, Oct. 22 at 9:40 am.
