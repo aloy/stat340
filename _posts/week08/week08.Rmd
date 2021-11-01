@@ -1,0 +1,82 @@
+---
+title: "Week 08: Hierarchical models and intro to regression"
+description: |
+  This week, we'll keep exploring hierarchical Bayesian models and start working with regression models.
+date: 2021-11-01
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Monday, 01 Nov
+
+
+### Topics
+
+Hierarchical normal modeling
+
+### Materials
+
+- [Hiearchichal normal slides](https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf) (these start on slide 25 from Friday)
+
+<!-- [Collaborative notes](https://docs.google.com/document/d/1aGGLaPlkHkPczUfS7f3HuGgOPn7L6j0oXtooF9QRWos/edit?usp=sharing) -->
+
+### Before next time
+
+1. Read Section 10.3
+
+1. Work on homework 7
+
+
+## Wednesday, 03 Nov
+
+### Topics
+
+Hierarchical beta-binomial modeling
+
+### Materials
+
+To be posted...
+
+
+### Before next time
+
+1. Read sections 11.1-11.6
+
+1. Finish homework 7
+
+
+
+## Friday, 05 Nov
+
+### Announcements
+
+- Homework 7 is due today by 9:40 am
+
+- I will post homework 8 soon
+
+### Topics
+
+- Introduction to regression
+
+### Materials
+
+To be posted...
+
+
+
+### Before next time
+
+1. Start homework 8
+
+1. Read sections 11.7-11.9
+
+

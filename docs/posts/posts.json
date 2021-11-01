@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week08/",
+    "title": "Week 08: Hierarchical models and intro to regression",
+    "description": "This week, we'll keep exploring hierarchical Bayesian models and start working with regression models.",
+    "author": [],
+    "date": "2021-11-01",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 01 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 01 Nov\nTopics\nHierarchical normal modeling\nMaterials\nHiearchichal normal slides (these start on slide 25 from Friday)\nBefore next time\nRead Section 10.3\nWork on homework 7\nWednesday, 03 Nov\nTopics\nHierarchical beta-binomial modeling\nMaterials\nTo be posted…\nBefore next time\nRead sections 11.1-11.6\nFinish homework 7\nFriday, 05 Nov\nAnnouncements\nHomework 7 is due today by 9:40 am\nI will post homework 8 soon\nTopics\nIntroduction to regression\nMaterials\nTo be posted…\nBefore next time\nStart homework 8\nRead sections 11.7-11.9\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-11-01T00:40:54-05:00",
+    "input_file": "week08.knit.md"
+  },
+  {
     "path": "posts/week07/",
     "title": "Week 07: Onward to hierarchical models",
     "description": "This week we'll wrap up our discussion of MCMC by learning about a few more convergence diagnostics. We'll then start learning about hierarchical models.",
