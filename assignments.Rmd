@@ -2,7 +2,11 @@
 title: "Assignments"
 description: |
   I'll post all course assignments here (homework, writing, and the final project).
-output: distill::distill_article
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -36,6 +40,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [Writing assignment 1](https://www.dropbox.com/s/8o5xinuv0cnwp13/01-prior-tuning.pdf?dl=0)
 
+## Final project
+
+[Final project assignment](https://www.dropbox.com/s/gmpblq5r9rddj70/f2021-final-project.pdf?dl=0)
+
+*Timeline:*
+
+1.  Friday, 5 Nov. Confirm groups. Fill out this Google form (only one group member needs to do this): <https://forms.gle/QEwJoAfoxroPtrGx6>.
+
+2.  Monday, 11 Nov. Submit your proposed data set and a brief proposal by 4 p.m. Your proposal should describe the general topic/phenomenon you want to study, as well some focused questions that you hope to answer and specific hypotheses that you intend to assess. You should also provide an overview of your data set and how it links to your goals. Be sure to clearly communicate the source of your data set.
+
+3.  Tuesday, 23 Nov. Final project due by 8:30 a.m. Submit a .pdf version of your paper on Gradescope and email supplemental materials to me including. The supplemental materials include: (1) your data (in a .csv or .rds file), (2) your code supplement (in a .Rmd or .R file). Your code supplement should be organized and clearly commented. If for some reason your data file is too large, feel free to share it via Dropbox or Google Drive.
+
+4.  Tuesday, 23 Nov. Final project due by 8:30 a.m. Complete the assessment of your contribution to the project and that of your group by midnight. The link to this Google form will be posted on on this site. Completion of this assessment (if you worked in a group) as well as your collaborative effort are specifications of the assignment, so are required.
+
+
+
 
 
 ## Problem topic correspondence
@@ -58,13 +78,26 @@ Abbreviation: WSOct4 = Worksheet from October 4
 
 Problem Topic | Homework problem(s)
 ------|-------------------
-6  |   
+6  |H6Q1   
 7  | H3Q4$^\dagger$, H4Q1$^\dagger$, H4Q2$^\dagger$, WSOct4
 8  | H4Q1$^*$, H4Q2$^*$, H4Q3$^*$, H4Q4$^*$, WSOct11, WSOct13
 9  | H5Q1, H5Q2, H5Q3, WSOct15
-10 | H4Q1, H4Q2, WSOct13
+10 | H4Q1, H4Q2, WSOct13, H6Q2, H6Q3, H6Q4
 11 | H3Q4, H4Q4, H5Q1, H5Q2, H5Q3, WSOct4
 
 $^\dagger=$ when you programmed the log posterior, you had to think about what the posterior was first, so it was a psuedo derivation
 
 $^*=$ if you use the algorithm, then you should be able to explain what it's doing.
+
+
+#### Module 3
+
+Problem Topic | Homework problem(s)
+------|-------------------
+12  | H7Q2, H7Q5, H7Q6
+13  | H7Q1, H7Q2, H7Q5, H7Q6  
+14  | H7Q3, H7Q4, H7Q5, H7Q6  
+15  | 
+16  | 
+17  | 
+18  |
