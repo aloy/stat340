@@ -87,9 +87,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Week 08: Hierarchical models and intro to regression</title>
+  <title>Week 08: Hierarchical models</title>
 
-  <meta property="description" itemprop="description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models and start working with regression models."/>
+  <meta property="description" itemprop="description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models."/>
 
 
   <!--  https://schema.org/Article -->
@@ -97,21 +97,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="article:created" itemprop="dateCreated" content="2021-11-01"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Week 08: Hierarchical models and intro to regression"/>
+  <meta property="og:title" content="Week 08: Hierarchical models"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models and start working with regression models."/>
+  <meta property="og:description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models."/>
   <meta property="og:locale" content="en_US"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Week 08: Hierarchical models and intro to regression"/>
-  <meta property="twitter:description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models and start working with regression models."/>
+  <meta property="twitter:title" content="Week 08: Hierarchical models"/>
+  <meta property="twitter:description" content="This week, we&#39;ll keep exploring hierarchical Bayesian models."/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 08: Hierarchical models and intro to regression"]},{"type":"character","attributes":{},"value":["This week, we'll keep exploring hierarchical Bayesian models and start working with regression models.\n"]},{"type":"character","attributes":{},"value":["2021-11-01"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output","draft"]}},"value":[{"type":"character","attributes":{},"value":["Week 08: Hierarchical models"]},{"type":"character","attributes":{},"value":["This week, we'll keep exploring hierarchical Bayesian models.\n"]},{"type":"character","attributes":{},"value":["2021-11-01"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]},{"type":"logical","attributes":{},"value":[false]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -1458,7 +1458,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Week 08: Hierarchical models and intro to regression","description":"This week, we'll keep exploring hierarchical Bayesian models and start working with regression models.","authors":[],"publishedDate":"2021-11-01T00:00:00.000-05:00"}
+{"title":"Week 08: Hierarchical models","description":"This week, we'll keep exploring hierarchical Bayesian models.","authors":[],"publishedDate":"2021-11-01T00:00:00.000-05:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1468,10 +1468,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Week 08: Hierarchical models and intro to regression</h1>
+<h1>Week 08: Hierarchical models</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>This week, we’ll keep exploring hierarchical Bayesian models and start working with regression models.</p></p>
+<p><p>This week, we’ll keep exploring hierarchical Bayesian models.</p></p>
 </div>
 
 
@@ -1496,12 +1496,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!-- [Collaborative notes](https://docs.google.com/document/d/1aGGLaPlkHkPczUfS7f3HuGgOPn7L6j0oXtooF9QRWos/edit?usp=sharing) -->
 <h3 id="before-next-time">Before next time</h3>
 <ol type="1">
-<li><p>Read Section 10.3</p></li>
-<li><p>Work on homework 7</p></li>
+<li>Work on homework 7</li>
 </ol>
 <h2 id="wednesday-03-nov">Wednesday, 03 Nov</h2>
 <h3 id="topics-1">Topics</h3>
-<p>Hierarchical beta-binomial modeling</p>
+<ul>
+<li><p>Posterior prediction</p></li>
+<li><p>Pointers on hyperprior for between group variance</p></li>
+<li><p>Hierarchical beta-binomial modeling</p></li>
+</ul>
 <h3 id="materials-1">Materials</h3>
 <ul>
 <li><p><a href="https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf">Hiearchichal normal slides</a> (wrapping up hierarchical normal models)</p></li>
@@ -1509,7 +1512,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 <h3 id="before-next-time-1">Before next time</h3>
 <ol type="1">
-<li><p>Read sections 11.1-11.6</p></li>
+<li><p>Read Section 10.3</p></li>
 <li><p>Finish homework 7</p></li>
 </ol>
 <h2 id="friday-05-nov">Friday, 05 Nov</h2>
@@ -1519,15 +1522,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <li><p>I will post homework 8 soon</p></li>
 </ul>
 <h3 id="topics-2">Topics</h3>
-<ul>
-<li>Introduction to regression</li>
-</ul>
+<p>Hierarchical beta-binomial modeling</p>
 <h3 id="materials-2">Materials</h3>
-<p>To be posted…</p>
+<p><a href="https://aloy.github.io/stat340-notes-fa21/19-hierarchical-beta-binom.pdf">Hierarchical beta-binomial model slides</a></p>
 <h3 id="before-next-time-2">Before next time</h3>
 <ol type="1">
 <li><p>Start homework 8</p></li>
-<li><p>Read sections 11.7-11.9</p></li>
+<li><p>Read sections 11.1-11.6</p></li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

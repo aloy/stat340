@@ -1,7 +1,7 @@
 ---
-title: "Week 08: Hierarchical models and intro to regression"
+title: "Week 08: Hierarchical models"
 description: |
-  This week, we'll keep exploring hierarchical Bayesian models and start working with regression models.
+  This week, we'll keep exploring hierarchical Bayesian models.
 date: 2021-11-01
 output:
   distill::distill_article:
@@ -31,8 +31,6 @@ Hierarchical normal modeling
 
 ### Before next time
 
-1. Read Section 10.3
-
 1. Work on homework 7
 
 
@@ -56,7 +54,7 @@ Hierarchical normal modeling
 
 ### Before next time
 
-1. Read sections 11.1-11.6
+1. Read Section 10.3
 
 1. Finish homework 7
 
@@ -72,11 +70,12 @@ Hierarchical normal modeling
 
 ### Topics
 
-- Introduction to regression
+Hierarchical beta-binomial modeling
+
 
 ### Materials
 
-To be posted...
+[Hierarchical beta-binomial model slides](https://aloy.github.io/stat340-notes-fa21/19-hierarchical-beta-binom.pdf)
 
 
 
@@ -84,6 +83,6 @@ To be posted...
 
 1. Start homework 8
 
-1. Read sections 11.7-11.9
+1. Read sections 11.1-11.6
 
 
