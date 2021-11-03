@@ -6,10 +6,10 @@
     "author": [],
     "date": "2021-11-01",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 01 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 01 Nov\nTopics\nHierarchical normal modeling\nMaterials\nHiearchichal normal slides (these start on slide 25 from Friday)\nBefore next time\nWork on homework 7\nWednesday, 03 Nov\nTopics\nPosterior prediction\nPointers on hyperprior for between group variance\nHierarchical beta-binomial modeling\nMaterials\nHiearchichal normal slides (wrapping up hierarchical normal models)\nHierarchical beta-binomial model slides\nBefore next time\nRead Section 10.3\nFinish homework 7\nFriday, 05 Nov\nAnnouncements\nHomework 7 is due today by 9:40 am\nI will post homework 8 soon\nTopics\nHierarchical beta-binomial modeling\nMaterials\nHierarchical beta-binomial model slides\nBefore next time\nStart homework 8\nRead sections 11.1-11.6\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 01 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 01 Nov\nTopics\nHierarchical normal modeling\nMaterials\nHiearchichal normal slides (these start on slide 25 from Friday)\nBefore next time\nWork on homework 7\nWednesday, 03 Nov\nTopics\nPosterior prediction\nPointers on hyperprior for between group variance\nHierarchical beta-binomial modeling\nMaterials\nHiearchichal normal slides (wrapping up hierarchical normal models)\nGelman’s wiki on prior distributions - a lot of good information, not all is relevant to this course\nOptional reading on priors for between group variance: Gelman (2004)\n\nHierarchical beta-binomial model slides\nBefore next time\nRead Section 10.3\nFinish homework 7\nFriday, 05 Nov\nAnnouncements\nHomework 7 is due today by 9:40 am\nI will post homework 8 soon\nTopics\nHierarchical beta-binomial modeling\nMaterials\nHierarchical beta-binomial model slides\nBefore next time\nStart homework 8\nRead sections 11.1-11.6\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-11-03T11:11:36-05:00",
-    "input_file": {}
+    "last_modified": "2021-11-03T13:34:16-05:00",
+    "input_file": "week08.knit.md"
   },
   {
     "path": "posts/week07/",

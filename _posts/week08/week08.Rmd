@@ -48,6 +48,10 @@ Hierarchical normal modeling
 
 - [Hiearchichal normal slides](https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf) (wrapping up hierarchical normal models)
 
+    + [Gelman's wiki on prior distributions](https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations) - a lot of good information, not all is relevant to this course
+
+    + Optional reading on priors for between group variance: [Gelman (2004)](http://www.stat.columbia.edu/~gelman/research/published/taumain.pdf)
+
 - [Hierarchical beta-binomial model slides](https://aloy.github.io/stat340-notes-fa21/19-hierarchical-beta-binom.pdf)
 
 
