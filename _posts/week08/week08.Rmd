@@ -40,11 +40,18 @@ Hierarchical normal modeling
 
 ### Topics
 
-Hierarchical beta-binomial modeling
+- Posterior prediction
+
+- Pointers on hyperprior for between group variance
+
+- Hierarchical beta-binomial modeling
 
 ### Materials
 
-To be posted...
+- [Hiearchichal normal slides](https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf) (wrapping up hierarchical normal models)
+
+- [Hierarchical beta-binomial model slides](https://aloy.github.io/stat340-notes-fa21/19-hierarchical-beta-binom.pdf)
+
 
 
 ### Before next time
