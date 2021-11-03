@@ -35,6 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Writing assignments
 
+- [Writing assignment 3](https://www.dropbox.com/s/z61cmkao1r9nmyd/03-describe-mcmc.pdf?dl=0) - Draft due Nov 5, Final due Nov. 8
+
 - [Writing assignment 2](https://www.dropbox.com/s/7qbimt4fd5dyy27/02-posterior-conclusions.pdf?dl=0) - Draft due Oct 22, Final due Oct 25
     + [writing2-sleep-time-draws.csv](https://aloy.github.io/stat340-notes-fa21/data/writing2-sleep-time-draws.csv)
 
