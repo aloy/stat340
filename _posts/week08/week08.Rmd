@@ -27,7 +27,7 @@ Hierarchical normal modeling
 
 - [Hiearchichal normal slides](https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf) (these start on slide 25 from Friday)
 
-<!-- [Collaborative notes](https://docs.google.com/document/d/1aGGLaPlkHkPczUfS7f3HuGgOPn7L6j0oXtooF9QRWos/edit?usp=sharing) -->
+- [Collaborative notes](https://docs.google.com/document/d/1tY5mZJaIPMv9sit6U4wTdVbHMIchMwKs0yhr_79tSOY/edit?usp=sharing)
 
 ### Before next time
 
