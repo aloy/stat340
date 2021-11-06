@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Homework
 
-- [Homework 8](https://www.dropbox.com/s/8giom8wcua8txpv/hw08.pdf?dl=0) Gradescope by Friday, Nov. 12 at 9:40 am.
+- [Homework 8](https://www.dropbox.com/s/8giom8wcua8txpv/hw08.pdf?dl=0) - due on Gradescope by Friday, Nov. 12 at 9:40 am.
 
 - [Homework 7](https://www.dropbox.com/s/irnlurn07rc2dr1/hw07.pdf?dl=0) - due on Gradescope by Friday, Nov. 5 at 9:40 am.
 
