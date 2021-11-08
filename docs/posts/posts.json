@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week09/",
+    "title": "Week 09: Regression",
+    "description": "This week we'll start exploring regression from the Bayesian perspective.",
+    "author": [],
+    "date": "2021-11-08",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 08 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 08 Nov\nAnnouncements\nExam 3 is Wednesday, November 17\nThere is a stats talk Wednesday, November 10 at 4:30 in Anderson\nTopics\nWrap up hierarchical beta-binomial modeling\nIntro to Bayesian regression\nMaterials\nHierarchical beta-binomial model slides\nIntro to Bayesian regression\nBefore next time\nWork on homework 8\nRead sections 11.7-11.9\nWednesday, 03 Nov\nTopics\nMore Bayesian regression\nMaterials\nComing soon…\n\n\nBefore next time\nRead Section 10.3\nFinish homework 7\nFriday, 05 Nov\nAnnouncements\nHomework 8 is due today by 9:40 am\nI will post homework 9 soon\nTopics\nMore Bayesian regression\nMaterials\nComing soon…\n\n\nBefore next time\nStart homework 9\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-11-08T00:55:12-06:00",
+    "input_file": "week09.knit.md"
+  },
+  {
     "path": "posts/week08/",
     "title": "Week 08: Hierarchical models",
     "description": "This week, we'll keep exploring hierarchical Bayesian models.",
