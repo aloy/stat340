@@ -37,6 +37,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Writing assignments
 
+- [Writing assignment 4](https://www.dropbox.com/s/px0q001zf8xb9wt/04-model-check.pdf?dl=0) - Draft due Nov 12, Final due Nov. 15 (Here's the [.Rmd with code for the plots](https://www.dropbox.com/s/1nuedgax2k9e89z/04-model-check.Rmd?dl=0))
+
+
 - [Writing assignment 3](https://www.dropbox.com/s/z61cmkao1r9nmyd/03-describe-mcmc.pdf?dl=0) - Draft due Nov 5, Final due Nov. 8
 
 - [Writing assignment 2](https://www.dropbox.com/s/7qbimt4fd5dyy27/02-posterior-conclusions.pdf?dl=0) - Draft due Oct 22, Final due Oct 25
