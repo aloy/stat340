@@ -37,7 +37,7 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 - [Intro to Bayesian regression](https://aloy.github.io/stat340-notes-fa21/20-slr.pdf)
 
-<!-- - [Collaborative notes](https://docs.google.com/document/d/1tY5mZJaIPMv9sit6U4wTdVbHMIchMwKs0yhr_79tSOY/edit?usp=sharing) -->
+- [Collaborative notes](https://docs.google.com/document/d/17fLwlp7Smn_rB9wGdyoMB3eJaqLvmcEr1vt0Kq8N-Rs/edit?usp=sharing)
 
 ### Before next time
 
@@ -50,14 +50,17 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 ### Topics
 
-- More Bayesian regression
+- Fitting simple linear regression
+
+- Informative priors (one method)
 
 
 ### Materials
 
-Coming soon...
 
-<!-- - [Hiearchichal normal slides](https://aloy.github.io/stat340-notes-fa21/18-hierarchical-normal2.pdf) (wrapping up hierarchical normal models) -->
+- [SLR in JAGS slides](https://aloy.github.io/stat340-notes-fa21/21-slr-jags.pdf) (wrapping up hierarchical normal models)
+
+- [Your turn .Rmd](https://aloy.github.io/stat340-notes-fa21/21H-slr-jags.html)
 
 
 <!-- - [Collaborative notes](https://docs.google.com/document/d/11jpGaO0aePBljqJ0yQwJHyhcRRn0MNHgGwjgoLQwfyY/edit?usp=sharing) -->
@@ -81,7 +84,11 @@ Coming soon...
 
 ### Topics
 
-- More Bayesian regression
+- Another approach to informative priors
+
+- Model diagnostics
+
+- Writing workshop
 
 ### Materials
 
