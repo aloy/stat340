@@ -62,6 +62,8 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 - [Your turn .Rmd](https://aloy.github.io/stat340-notes-fa21/21H-slr-jags.html)
 
+- [Your turn solution](https://aloy.github.io/stat340-notes-fa21/21H-soln-slr-jags.pdf)
+
 
 <!-- - [Collaborative notes](https://docs.google.com/document/d/11jpGaO0aePBljqJ0yQwJHyhcRRn0MNHgGwjgoLQwfyY/edit?usp=sharing) -->
 
