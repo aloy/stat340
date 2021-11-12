@@ -65,14 +65,12 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 - [Your turn solution](https://aloy.github.io/stat340-notes-fa21/21H-soln-slr-jags.pdf)
 
 
-<!-- - [Collaborative notes](https://docs.google.com/document/d/11jpGaO0aePBljqJ0yQwJHyhcRRn0MNHgGwjgoLQwfyY/edit?usp=sharing) -->
+- [Collaborative notes](https://docs.google.com/document/d/101ABxa86_1C-P000JQhK2-MZCPScow01Ug7bV-QyuF4/edit?usp=sharing)
 
 
 ### Before next time
 
-1. Read Section 10.3
-
-1. Finish homework 7
+1. Finish homework 8
 
 
 
@@ -84,6 +82,8 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 - I will post homework 9 soon
 
+- Exam 3 is on Wednesday
+
 ### Topics
 
 - Another approach to informative priors
@@ -94,9 +94,11 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 ### Materials
 
-Coming soon...
 
-<!-- [Hierarchical beta-binomial model slides](https://aloy.github.io/stat340-notes-fa21/19-hierarchical-beta-binom.pdf) -->
+
+[SLR model checking](https://aloy.github.io/stat340-notes-fa21/22-slr-checking.pdf)
+
+[Model checking R code handout](https://aloy.github.io/stat340-notes-fa21/22H-slr-checking.html)
 
 <!-- [Collaborative notes](https://docs.google.com/document/d/1IVN2c1UKpvL9IUrg6RDpN2xahv3owD7GieycYruHBL4/edit?usp=sharing) -->
 

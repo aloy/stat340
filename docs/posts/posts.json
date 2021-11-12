@@ -6,9 +6,9 @@
     "author": [],
     "date": "2021-11-08",
     "categories": [],
-    "contents": "\n\nContents\nMonday, 08 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 08 Nov\nAnnouncements\nExam 3 is Wednesday, November 17\nThere is a stats talk Wednesday, November 10 at 4:30 in Anderson\nTopics\nWrap up hierarchical beta-binomial modeling\nIntro to Bayesian regression\nMaterials\nHierarchical beta-binomial model slides\nIntro to Bayesian regression\nCollaborative notes\nBefore next time\nWork on homework 8\nRead sections 11.7-11.9\nWednesday, 03 Nov\nTopics\nFitting simple linear regression\nInformative priors (one method)\nMaterials\nSLR in JAGS slides (wrapping up hierarchical normal models)\nYour turn .Rmd\nYour turn solution\nBefore next time\nRead Section 10.3\nFinish homework 7\nFriday, 05 Nov\nAnnouncements\nHomework 8 is due today by 9:40 am\nI will post homework 9 soon\nTopics\nAnother approach to informative priors\nModel diagnostics\nWriting workshop\nMaterials\nComing soon…\n\n\nBefore next time\nStart homework 9\n\n\n\n",
+    "contents": "\n\nContents\nMonday, 08 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 08 Nov\nAnnouncements\nExam 3 is Wednesday, November 17\nThere is a stats talk Wednesday, November 10 at 4:30 in Anderson\nTopics\nWrap up hierarchical beta-binomial modeling\nIntro to Bayesian regression\nMaterials\nHierarchical beta-binomial model slides\nIntro to Bayesian regression\nCollaborative notes\nBefore next time\nWork on homework 8\nRead sections 11.7-11.9\nWednesday, 03 Nov\nTopics\nFitting simple linear regression\nInformative priors (one method)\nMaterials\nSLR in JAGS slides (wrapping up hierarchical normal models)\nYour turn .Rmd\nYour turn solution\nCollaborative notes\nBefore next time\nFinish homework 8\nFriday, 05 Nov\nAnnouncements\nHomework 8 is due today by 9:40 am\nI will post homework 9 soon\nExam 3 is on Wednesday\nTopics\nAnother approach to informative priors\nModel diagnostics\nWriting workshop\nMaterials\nSLR model checking\nModel checking R code handout\n\nBefore next time\nStart homework 9\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-11-10T22:23:16-06:00",
+    "last_modified": "2021-11-12T00:56:53-06:00",
     "input_file": "week09.knit.md"
   },
   {
