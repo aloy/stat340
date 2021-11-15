@@ -103,10 +103,10 @@ $^*=$ if you use the algorithm, then you should be able to explain what it's doi
 
 Problem Topic | Homework problem(s)
 ------|-------------------
-12  | H7Q2, H7Q5, H7Q6
-13  | H7Q1, H7Q2, H7Q5, H7Q6  
-14  | H7Q3, H7Q4, H7Q5, H7Q6  
-15  | 
-16  | 
-17  | 
-18  |
+12  | H7Q2, H7Q5, H7Q6, H8Q1, H8Q2, H8Q3
+13  | H7Q1, H7Q2, H7Q5, H7Q6, H8Q1, H8Q2, H8Q3  
+14  | H7Q3, H7Q4, H7Q5, H7Q6, H8Q1, H8Q2, H8Q3
+15  | H8Q5, H9Q1, H9Q2, H9Q4
+16  | H8Q7, H9Q1, H9Q4
+17  | H8Q7, H9Q1, H9Q4
+18  | H8Q4, H8Q6, H9Q4

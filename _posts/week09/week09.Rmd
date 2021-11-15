@@ -100,7 +100,7 @@ There is a stats talk Wednesday, November 10 at 4:30 in Anderson
 
 [Model checking R code handout](https://aloy.github.io/stat340-notes-fa21/22H-slr-checking.html)
 
-<!-- [Collaborative notes](https://docs.google.com/document/d/1IVN2c1UKpvL9IUrg6RDpN2xahv3owD7GieycYruHBL4/edit?usp=sharing) -->
+[Collaborative notes](https://docs.google.com/document/d/1Lsyp1f1cdgoPgc0a2XMVvRUwEozm6j-3sHzSqg93Oes/edit?usp=sharing)
 
 
 
