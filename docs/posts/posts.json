@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/week10/",
+    "title": "Week 10: Wrapping up regression",
+    "description": "This week wind down the course. We'll tie up some loose ends with regression, explore future directions you can explore, take an exam, and have some time to work on the final project.",
+    "author": [],
+    "date": "2021-11-15",
+    "categories": [],
+    "contents": "\n\nContents\nMonday, 15 Nov\nWednesday, 17 Nov\nFriday, 19 Nov\n\nMonday, 15 Nov\nAnnouncements\nHomework 9 is due Friday at 9:40\nExam 3 is Wednesday\nThere is a stats talk today at 4:30 in Anderson\nTopics\nInformative priors for SLR\nOverview of multiple and logistic regression\nMaterials\nSLR informative priors (starting on slide 19)\nMultiple and logistic regression: A rapid overview\nBefore next time\nStudy for the exam\nWednesday, 17 Nov\nAnnouncements\nThere is a stats talk today at 4:30 in Anderson\nTopics\nExam 3\nBefore next time\nFinish homework\nWork on your project\nFriday, 19 Nov\nAnnouncements\nThe final projects are due by 8:30 a.m. on Tuesday, November 23.\nExam 3 revisions are due by 8:30 a.m. on Tuesday, November 23.\nTopics\nWork on your final project\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-11-14T23:09:09-06:00",
+    "input_file": "week10.knit.md"
+  },
+  {
     "path": "posts/week09/",
     "title": "Week 09: Regression",
     "description": "This week we'll start exploring regression from the Bayesian perspective.",

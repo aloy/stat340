@@ -1,0 +1,78 @@
+---
+title: "Week 10: Wrapping up regression"
+description: |
+  This week wind down the course. We'll tie up some loose ends with regression, explore future directions you can explore, take an exam, and have some time to work on the final project.
+date: 2021-11-15
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Monday, 15 Nov
+
+### Announcements
+
+- Homework 9 is due Friday at 9:40
+
+- Exam 3 is Wednesday
+
+- There is a stats talk today at 4:30 in Anderson
+
+
+### Topics
+
+- Informative priors for SLR
+
+- Overview of multiple and logistic regression
+
+### Materials
+
+- [SLR informative priors](https://aloy.github.io/stat340-notes-fa21/22-slr-checking.pdf) (starting on slide 19)
+
+- [Multiple and logistic regression: A rapid overview](https://aloy.github.io/stat340-notes-fa21/23-future-directions.pdf)
+
+<!-- - [Collaborative notes](https://docs.google.com/document/d/17fLwlp7Smn_rB9wGdyoMB3eJaqLvmcEr1vt0Kq8N-Rs/edit?usp=sharing) -->
+
+### Before next time
+
+1. Study for the exam
+
+
+## Wednesday, 17 Nov
+
+### Announcements
+
+There is a stats talk today at 4:30 in Anderson
+
+
+### Topics
+
+Exam 3
+
+### Before next time
+
+1. Finish homework
+
+1. Work on your project
+
+
+
+## Friday, 19 Nov
+
+### Announcements
+
+The final projects are due by 8:30 a.m. on Tuesday, November 23.
+
+Exam 3 revisions are due by 8:30 a.m. on Tuesday, November 23.
+
+### Topics
+
+Work on your final project
