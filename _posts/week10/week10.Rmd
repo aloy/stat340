@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [Multiple and logistic regression: A rapid overview](https://aloy.github.io/stat340-notes-fa21/23-future-directions.pdf)
 
-<!-- - [Collaborative notes](https://docs.google.com/document/d/17fLwlp7Smn_rB9wGdyoMB3eJaqLvmcEr1vt0Kq8N-Rs/edit?usp=sharing) -->
+- [Collaborative notes](https://docs.google.com/document/d/1Z6S4HXyZM02Bk_6daYPMxsr3o2W-T6LSVuDE2jam5Wo/edit?usp=sharing)
 
 ### Before next time
 
