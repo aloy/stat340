@@ -61,7 +61,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 3.  Tuesday, 23 Nov. Final project due by 8:30 a.m. Submit a .pdf version of your paper on Gradescope and email supplemental materials to me including. The supplemental materials include: (1) your data (in a .csv or .rds file), (2) your code supplement (in a .Rmd or .R file). Your code supplement should be organized and clearly commented. If for some reason your data file is too large, feel free to share it via Dropbox or Google Drive.
 
-4.  Tuesday, 23 Nov. Final project due by 8:30 a.m. Complete the assessment of your contribution to the project and that of your group by midnight. The link to this Google form will be posted on on this site. Completion of this assessment (if you worked in a group) as well as your collaborative effort are specifications of the assignment, so are required.
+4.  Tuesday, 23 Nov. Final project due by 8:30 a.m. Complete the [assessment of your contribution to the project and that of your group.](https://forms.gle/P8FxQS8YVzpk9Uhr7) Completion of this assessment (if you worked in a group) as well as your collaborative effort are specifications of the assignment, so are required.
 
 
 

@@ -9,7 +9,7 @@
     "contents": "\n\nContents\nMonday, 15 Nov\nWednesday, 17 Nov\nFriday, 19 Nov\n\nMonday, 15 Nov\nAnnouncements\nHomework 9 is due Friday at 9:40\nExam 3 is Wednesday\nThere is a stats talk today at 4:30 in Anderson\nTopics\nInformative priors for SLR\nOverview of multiple and logistic regression\nMaterials\nSLR informative priors (starting on slide 19)\nMultiple and logistic regression: A rapid overview\nCollaborative notes\nBefore next time\nStudy for the exam\nWednesday, 17 Nov\nAnnouncements\nThere is a stats talk today at 4:30 in Anderson\nTopics\nExam 3\nBefore next time\nFinish homework\nWork on your project\nFriday, 19 Nov\nAnnouncements\nThe final projects are due by 8:30 a.m. on Tuesday, November 23.\nExam 3 revisions are due by 8:30 a.m. on Tuesday, November 23.\nTopics\nWork on your final project\n\n\n\n",
     "preview": {},
     "last_modified": "2021-11-16T21:18:32-06:00",
-    "input_file": "week10.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week09/",
@@ -21,7 +21,7 @@
     "contents": "\n\nContents\nMonday, 08 Nov\nWednesday, 03 Nov\nFriday, 05 Nov\n\nMonday, 08 Nov\nAnnouncements\nExam 3 is Wednesday, November 17\nThere is a stats talk Wednesday, November 10 at 4:30 in Anderson\nTopics\nWrap up hierarchical beta-binomial modeling\nIntro to Bayesian regression\nMaterials\nHierarchical beta-binomial model slides\nIntro to Bayesian regression\nCollaborative notes\nBefore next time\nWork on homework 8\nRead sections 11.7-11.9\nWednesday, 03 Nov\nTopics\nFitting simple linear regression\nInformative priors (one method)\nMaterials\nSLR in JAGS slides (wrapping up hierarchical normal models)\nYour turn .Rmd\nYour turn solution\nCollaborative notes\nBefore next time\nFinish homework 8\nFriday, 05 Nov\nAnnouncements\nHomework 8 is due today by 9:40 am\nI will post homework 9 soon\nExam 3 is on Wednesday\nTopics\nAnother approach to informative priors\nModel diagnostics\nWriting workshop\nMaterials\nSLR model checking\nModel checking R code handout\nCollaborative notes\nBefore next time\nStart homework 9\nReview section 11.8\n\n\n\n",
     "preview": {},
     "last_modified": "2021-11-15T11:45:09-06:00",
-    "input_file": "week09.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/week08/",
